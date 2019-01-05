@@ -201,15 +201,31 @@ include("header.php");
 						<div class="event">
 							<div class="event-day">
 								<div>
-									<span class="day">15</span>
+									<span class="day">28</span>
 									<span class="year">Feb, 2018</span>
 								</div>
 							</div>
 							<div class="event-content">
-								<p class="event-time"><i class="fa fa-clock-o"></i> 8 : 00 AM - 11 : 00 AM</p>
-								<h3 class="event-title">His id altera fabellas facilisis. Has eros assueverit cu</h3>
+                                
+								<p class="event-time"><i class="fa fa-clock-o"></i> 9 : 30 AM - 10 : 15 AM</p>
+								<h3 class="event-title">Reporting</h3>
+								<p>After Reporting breakfast is provided</p>
+<!--								<p>By <a href="#">John Doe</a></p>-->
+							</div>
+						</div>
+						<!-- /event -->
+                        
+						<!-- event -->
+						<div class="event">
+							<div class="event-hour"></div>
+							<div class="event-content">
+                                <br><br>
+								<p class="event-time"><i class="fa fa-clock-o"></i> 10 : 15 AM - 10 : 45 AM</p>
+								<h3 class="event-title">Inauguration</h3>
+<!--
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 								<p>By <a href="#">John Doe</a></p>
+-->
 							</div>
 						</div>
 						<!-- /event -->
@@ -218,68 +234,79 @@ include("header.php");
 						<div class="event">
 							<div class="event-hour"></div>
 							<div class="event-content">
-								<p class="event-time"><i class="fa fa-clock-o"></i> 8 : 00 AM - 11 : 00 AM</p>
-								<h3 class="event-title">Perpetua consectetuer definitiones id sea, mei utinam eripuit ne</h3>
+                                <br><br>
+								<p class="event-time"><i class="fa fa-clock-o"></i> 10 : 45 AM - 11 : 15 AM</p>
+                                
+								<h3 class="event-title">Introduction and Video on TEDx</h3>
+<!--
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 								<p>By <a href="#">John Doe</a></p>
+-->
 							</div>
 						</div>
 						<!-- /event -->
 
 						<!-- event -->
 						<div class="event">
-							<div class="event-hour"></div>
-							<div class="event-content">
-								<p class="event-time"><i class="fa fa-clock-o"></i> 8 : 00 AM - 11 : 00 AM</p>
-								<h3 class="event-title">At mucius deserunt delicatissimi eam, labitur detraxit ut sit</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-								<p>By <a href="#">John Doe</a></p>
-							</div>
-						</div>
-						<!-- /event -->
-
-						<!-- event -->
-						<div class="event">
+<!--
 							<div class="event-day">
 								<div>
 									<span class="day">16</span>
 									<span class="year">Feb, 2018</span>
 								</div>
 							</div>
+-->                         <div class="event-hour"></div>
 							<div class="event-content">
-								<p class="event-time"><i class="fa fa-clock-o"></i> 8 : 00 AM - 11 : 00 AM</p>
-								<h3 class="event-title">His id altera fabellas facilisis. Has eros assueverit cu</h3>
+                                <br><br>
+								<p class="event-time"><i class="fa fa-clock-o"></i> 11 : 15 AM - 11 : 45 AM</p>
+								<h3 class="event-title">Speaker 1</h3>
+<!--
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 								<p>By <a href="#">John Doe</a></p>
+-->
 							</div>
 						</div>
 						<!-- /event -->
 
 						<!-- event -->
 						<div class="event">
-							<div class="event-hour"></div>
+                            <div class="event-day">
+								<div>
+<!--									<span class="day">16</span>-->
+									<span class="year">Afternoon</span>
+								</div>
+							</div>
 							<div class="event-content">
-								<p class="event-time"><i class="fa fa-clock-o"></i> 8 : 00 AM - 11 : 00 AM</p>
-								<h3 class="event-title">At mucius deserunt delicatissimi eam, labitur detraxit ut sit</h3>
+                                <br>
+								<p class="event-time"><i class="fa fa-clock-o"></i> 11 : 45 AM - 12 : 15 PM</p>
+								<h3 class="event-title">Speaker 2</h3>
+<!--
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 								<p>By <a href="#">John Doe</a></p>
+-->
 							</div>
 						</div>
 						<!-- /event -->
 
 						<!-- event -->
 						<div class="event">
+<!--
 							<div class="event-day">
 								<div>
 									<span class="day">17</span>
 									<span class="year">Feb, 2018</span>
 								</div>
 							</div>
+-->                         
 							<div class="event-content">
-								<p class="event-time"><i class="fa fa-clock-o"></i> 8 : 00 AM - 11 : 00 AM</p>
-								<h3 class="event-title">His id altera fabellas facilisis. Has eros assueverit cu</h3>
+                                <div class="event-hour"></div>
+                                <br><br>
+								<p class="event-time"><i class="fa fa-clock-o"></i> 12 : 15 PM - 01 : 00 PM</p>
+								<h3 class="event-title">Lunch</h3>
+<!--
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 								<p>By <a href="#">John Doe</a></p>
+-->
 							</div>
 						</div>
 						<!-- /event -->
@@ -288,14 +315,131 @@ include("header.php");
 						<div class="event">
 							<div class="event-hour"></div>
 							<div class="event-content">
-								<p class="event-time"><i class="fa fa-clock-o"></i> 8 : 00 AM - 11 : 00 AM</p>
-								<h3 class="event-title">At mucius deserunt delicatissimi eam, labitur detraxit ut sit</h3>
+                                <br><br>
+								<p class="event-time"><i class="fa fa-clock-o"></i> 01 : 00 PM - 01 : 30 PM</p>
+								<h3 class="event-title">Speaker 3</h3>
+<!--
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 								<p>By <a href="#">John Doe</a></p>
+-->
 							</div>
 						</div>
 						<!-- /event -->
+                        
+                        <!-- event -->
+						<div class="event">
+							<div class="event-hour"></div>
+							<div class="event-content">
+                                <br><br>
+								<p class="event-time"><i class="fa fa-clock-o"></i> 01 : 30 PM - 01 : 55 PM</p>
+								<h3 class="event-title">Speaker 4</h3>
+<!--
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+								<p>By <a href="#">John Doe</a></p>
+-->
+							</div>
+						</div>
+						<!-- /event -->
+                        
+                        
+                        <!-- event -->
+						<div class="event">
+							<div class="event-hour"></div>
+							<div class="event-content">
+                                <br><br>
+								<p class="event-time"><i class="fa fa-clock-o"></i> 01 : 55 PM - 02 : 20 PM</p>
+								<h3 class="event-title">Speaker 5</h3>
+<!--
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+								<p>By <a href="#">John Doe</a></p>
+-->
+							</div>
+						</div>
+						<!-- /event -->
+                        
+                        <!-- event -->
+						<div class="event">
+							<div class="event-hour"></div>
+							<div class="event-content">
+                                <br><br>
+								<p class="event-time"><i class="fa fa-clock-o"></i> 02 : 20 PM - 03 : 00 PM</p>
+								<h3 class="event-title">Performance + High Tea</h3>
+<!--
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+								<p>By <a href="#">John Doe</a></p>
+-->
+							</div>
+						</div>
+						<!-- /event -->
+                        
+                        <!-- event -->
+						<div class="event">
+							<div class="event-hour"></div>
+							<div class="event-content">
+                                <br><br>
+								<p class="event-time"><i class="fa fa-clock-o"></i> 03 : 00 PM - 03 : 25 PM</p>
+								<h3 class="event-title">Speaker 6</h3>
+<!--
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+								<p>By <a href="#">John Doe</a></p>
+-->
+							</div>
+						</div>
+						<!-- /event -->
+                        
+                        <!-- event -->
+						<div class="event">
+							<div class="event-hour"></div>
+							<div class="event-content">
+                                <br><br>
+								<p class="event-time"><i class="fa fa-clock-o"></i> 03 : 25 PM - 03 : 50 PM</p>
+								<h3 class="event-title">Speaker 7</h3>
+<!--
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+								<p>By <a href="#">John Doe</a></p>
+-->
+							</div>
+						</div>
+						<!-- /event -->
+                        
+                        <!-- event -->
+						<div class="event">
+							<div class="event-hour"></div>
+							<div class="event-content">
+                                <br><br>
+								<p class="event-time"><i class="fa fa-clock-o"></i> 03 : 50 PM - 04 : 15 PM</p>
+								<h3 class="event-title">Speaker 8</h3>
+<!--
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+								<p>By <a href="#">John Doe</a></p>
+-->
+							</div>
+						</div>
+						<!-- /event -->
+                        
+                        <!-- event -->
+						<div class="event">
+                            <div class="event-day">
+								<div>
+<!--									<span class="day">16</span>-->
+									<span class="year">End</span>
+								</div>
+							</div>
+							<div class="event-content">
+                                <br>
+								<p class="event-time"><i class="fa fa-clock-o"></i> 04 : 15 PM - 04 : 30 PM</p>
+								<h3 class="event-title">Closing Ceremony</h3>
+<!--
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+								<p>By <a href="#">John Doe</a></p>
+-->
+							</div>
+						</div>
+						<!-- /event -->
+                        
+                        
 					</div>
+                    
 
 					<div class="download-btn">
 						<a href="#" class="main-btn">Download Schedule</a>
