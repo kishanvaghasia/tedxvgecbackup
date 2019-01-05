@@ -426,18 +426,20 @@ include("header.php");
 				<div class="col-md-4 col-sm-6">
 					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-1">
 						<div class="speaker-img">
-							<img src="./img/speaker01.jpg" alt="">
+							<img src="./img/arunkumar%20-%20Copy.jpg" alt="">
 						</div>
 						<div class="speaker-body">
+<!--
 							<div class="speaker-social">
 								<a href="#"><i class="fa fa-facebook"></i></a>
 								<a href="#"><i class="fa fa-twitter"></i></a>
 								<a href="#"><i class="fa fa-instagram"></i></a>
 								<a href="#"><i class="fa fa fa-linkedin"></i></a>
 							</div>
+-->
 							<div class="speaker-content">
-								<h2>John Doe</h2>
-								<span>Manager, CEO</span>
+								<h2>Arun Kumar Bajaj</h2>
+								<span>Sewing Machine Artist</span>
 							</div>
 						</div>
 					</div>
@@ -446,20 +448,22 @@ include("header.php");
 
 				<!-- speaker -->
 				<div class="col-md-4 col-sm-6">
-					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-1">
+					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-2">
 						<div class="speaker-img">
-							<img src="./img/speaker02.jpg" alt="">
+							<img src="./img/aparna%20-%20Copy.jpg" alt="">
 						</div>
 						<div class="speaker-body">
+<!--
 							<div class="speaker-social">
 								<a href="#"><i class="fa fa-facebook"></i></a>
 								<a href="#"><i class="fa fa-twitter"></i></a>
 								<a href="#"><i class="fa fa-instagram"></i></a>
 								<a href="#"><i class="fa fa fa-linkedin"></i></a>
 							</div>
+-->
 							<div class="speaker-content">
-								<h2>John Doe</h2>
-								<span>Manager, CEO</span>
+								<h2>Aparna Samuel Balasundaram</h2>
+								<span>Physchoteraphist and Author</span>
 							</div>
 						</div>
 					</div>
@@ -468,25 +472,152 @@ include("header.php");
 
 				<!-- speaker -->
 				<div class="col-md-4 col-sm-6">
-					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-1">
+					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-3">
 						<div class="speaker-img">
-							<img src="./img/speaker03.jpg" alt="">
+							<img src="./img/anand%20-%20Copy.jpg" alt="">
 						</div>
 						<div class="speaker-body">
+<!--
 							<div class="speaker-social">
 								<a href="#"><i class="fa fa-facebook"></i></a>
 								<a href="#"><i class="fa fa-twitter"></i></a>
 								<a href="#"><i class="fa fa-instagram"></i></a>
 								<a href="#"><i class="fa fa fa-linkedin"></i></a>
 							</div>
+-->
 							<div class="speaker-content">
-								<h2>John Doe</h2>
-								<span>Manager, CEO</span>
+								<h2>Anand Bhatnagar</h2>
+								<span>Asst. Vice President Reliance</span>
 							</div>
 						</div>
 					</div>
 				</div>
 				<!-- /speaker -->
+                
+                <!-- speaker -->
+				<div class="col-md-4 col-sm-6">
+					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-4">
+						<div class="speaker-img">
+							<img src="./img/tirth.jpg" alt="">
+						</div>
+						<div class="speaker-body">
+<!--
+							<div class="speaker-social">
+								<a href="#"><i class="fa fa-facebook"></i></a>
+								<a href="#"><i class="fa fa-twitter"></i></a>
+								<a href="#"><i class="fa fa-instagram"></i></a>
+								<a href="#"><i class="fa fa fa-linkedin"></i></a>
+							</div>
+-->
+							<div class="speaker-content">
+								<h2>Tirth Mehta</h2>
+								<span>SportsPerson</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- /speaker -->
+
+                
+                <!-- speaker -->
+				<div class="col-md-4 col-sm-6">
+					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-5">
+						<div class="speaker-img">
+							<img src="./img/riya2%20-%20Copy.jpg" alt="">
+						</div>
+						<div class="speaker-body">
+<!--
+							<div class="speaker-social">
+								<a href="#"><i class="fa fa-facebook"></i></a>
+								<a href="#"><i class="fa fa-twitter"></i></a>
+								<a href="#"><i class="fa fa-instagram"></i></a>
+								<a href="#"><i class="fa fa fa-linkedin"></i></a>
+							</div>
+-->
+							<div class="speaker-content">
+								<h2>Riya Sharma</h2>
+								<span>Photographer</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- /speaker -->
+                
+                <!-- speaker -->
+				<div class="col-md-4 col-sm-6">
+					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-6">
+						<div class="speaker-img">
+							<img src="./img/mukesh%20-%20Copy.jpg" alt="">
+						</div>
+						<div class="speaker-body">
+<!--
+							<div class="speaker-social">
+								<a href="#"><i class="fa fa-facebook"></i></a>
+								<a href="#"><i class="fa fa-twitter"></i></a>
+								<a href="#"><i class="fa fa-instagram"></i></a>
+								<a href="#"><i class="fa fa fa-linkedin"></i></a>
+							</div>
+-->
+							<div class="speaker-content">
+								<h2>Mukesh Bavishi</h2>
+								<span>Gynec Cance Surgeon,Fertility Specialist, Cosmetic Surgeon </span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- /speaker -->
+
+                <!-- speaker -->
+				<div class="col-md-4 col-sm-6">
+					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-7">
+						<div class="speaker-img">
+							<img src="./img/anil%20-%20Copy.jpg" alt="">
+						</div>
+						<div class="speaker-body">
+<!--
+							<div class="speaker-social">
+								<a href="#"><i class="fa fa-facebook"></i></a>
+								<a href="#"><i class="fa fa-twitter"></i></a>
+								<a href="#"><i class="fa fa-instagram"></i></a>
+								<a href="#"><i class="fa fa fa-linkedin"></i></a>
+							</div>
+-->
+							<div class="speaker-content">
+								<h2>Anil Kumar Gupta</h2>
+								<span>Founder of Honey Bee Network and Professor at IIM Ahmedabad</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- /speaker -->
+
+                 <!-- speaker -->
+				<div class="col-md-4 col-sm-6">
+					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-8">
+						<div class="speaker-img">
+							<img src="./img/krishna%20-%20Copy.jpg" alt="">
+						</div>
+						<div class="speaker-body">
+<!--
+							<div class="speaker-social">
+								<a href="#"><i class="fa fa-facebook"></i></a>
+								<a href="#"><i class="fa fa-twitter"></i></a>
+								<a href="#"><i class="fa fa-instagram"></i></a>
+								<a href="#"><i class="fa fa fa-linkedin"></i></a>
+							</div>
+-->
+							<div class="speaker-content">
+								<h2>Prof. K. THYAGARAJAN</h2>
+								<span>Prof.  AT IIT DELHI , PHYSICS</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- /speaker -->
+
+                
+                
+                
 
 				<!-- speaker modal -->
 				<div id="speaker-modal-1" class="speaker-modal modal fade">
@@ -497,22 +628,24 @@ include("header.php");
 								<div class="row">
 									<div class="col-md-5">
 										<div class="speaker-modal-img">
-											<img src="./img/speaker-info.jpg" alt="">
+											<img src="./img/arunkumar.jpg" alt="">
 										</div>
 									</div>
 									<div class="col-md-7">
 										<div class="speaker-modal-content">
-											<h2 class="speaker-name">John Doe</h2>
-											<span class="speaker-job">- Manager, CEO</span>
+											<h2 class="speaker-name">Arun Kumar Bajaj</h2>
+											<span class="speaker-job">Sewing Machine Artist</span>
 
-											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-												irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+											<p>Arun kumar Bajaj AKA Needle man is the world’s only sewing machine artist.Bajaj always dreamed of being a painter but following the sudden death of his father, he was forced into the tailoring business. He didn’t let the artist in him die and began experimenting with the needle and thread. Arun made it to “The India Book of Records” for his unique lord Krishna embroidery on February 4,2015.</p>
 
+<!--
 											<div class="speaker-website">
 												<h4>Website</h4>
 												<a href="#">www.johndoe.com</a>
 											</div>
+-->
 
+<!--
 											<div class="speaker-social">
 												<h4>Social Profile</h4>
 												<a href="#"><i class="fa fa-facebook"></i></a>
@@ -520,7 +653,9 @@ include("header.php");
 												<a href="#"><i class="fa fa-instagram"></i></a>
 												<a href="#"><i class="fa fa fa-linkedin"></i></a>
 											</div>
+-->
 
+<!--
 											<div class="speaker-events">
 												<h4>Sessions</h4>
 												<div class="speaker-event">
@@ -533,6 +668,7 @@ include("header.php");
 													<p>At mucius deserunt delicatissimi eam, labitur detraxit ut sit</p>
 												</div>
 											</div>
+-->
 
 										</div>
 									</div>
@@ -542,6 +678,422 @@ include("header.php");
 					</div>
 				</div>
 				<!-- /speaker modal -->
+                
+                <!-- speaker modal -->
+				<div id="speaker-modal-2" class="speaker-modal modal fade">
+					<div class="modal-dialog">
+						<div class="modal-content">
+							<button type="button" class="speaker-modal-close" data-dismiss="modal"></button>
+							<div class="modal-body">
+								<div class="row">
+									<div class="col-md-5">
+										<div class="speaker-modal-img">
+											<img src="./img/aparna.jpg" alt="">
+										</div>
+									</div>
+									<div class="col-md-7">
+										<div class="speaker-modal-content">
+											<h2 class="speaker-name">Aparna Samuel Balasundaram</h2>
+											<span class="speaker-job">Physchoteraphist and Author</span>
+                                            
+											<p><br>She is an author and USA-licensed Psychotherapist with 20 years of experience in the field of human development,parent Coaching,Training and education.She is the recipient of New-york university’s ‘Deans Award’ for academic excellence and the press-Ganey award for clinical expertise,USA. Aparna has been published in leading print media and has been invited as a speaker to international conferences.</p>
+
+<!--
+											<div class="speaker-website">
+												<h4>Website</h4>
+												<a href="#">www.johndoe.com</a>
+											</div>
+
+											<div class="speaker-social">
+												<h4>Social Profile</h4>
+												<a href="#"><i class="fa fa-facebook"></i></a>
+												<a href="#"><i class="fa fa-twitter"></i></a>
+												<a href="#"><i class="fa fa-instagram"></i></a>
+												<a href="#"><i class="fa fa fa-linkedin"></i></a>
+											</div>
+-->
+
+<!--
+											<div class="speaker-events">
+												<h4>Sessions</h4>
+												<div class="speaker-event">
+													<span><strong>Day 1 -</strong> February 20, 2018 8 : 00 AM - 11 : 00 AM</span>
+													<p>His id altera fabellas facilisis. Has eros assueverit cu</p>
+												</div>
+
+												<div class="speaker-event">
+													<span><strong>Day 2 -</strong> February 20, 2018 8 : 00 AM - 11 : 00 AM</span>
+													<p>At mucius deserunt delicatissimi eam, labitur detraxit ut sit</p>
+												</div>
+											</div>
+-->
+
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- /speaker modal -->
+                
+                
+                
+                 <!-- speaker modal -->
+				<div id="speaker-modal-3" class="speaker-modal modal fade">
+					<div class="modal-dialog">
+						<div class="modal-content">
+							<button type="button" class="speaker-modal-close" data-dismiss="modal"></button>
+							<div class="modal-body">
+								<div class="row">
+									<div class="col-md-5">
+										<div class="speaker-modal-img">
+											<img src="./img/anand.jpg" alt="">
+										</div>
+									</div>
+									<div class="col-md-7">
+										<div class="speaker-modal-content">
+											<h2 class="speaker-name">Anand Bhatnagar</h2>
+                                            <br>
+											<span class="speaker-job">Asst. Vice President Reliance</span>
+                                            
+											<p><br>His success journey involves positions in corporate world as a contributor. Starting from AVP Reliance to GM with HCL, building the managerial, leadership capabilities and competencies of employees at various cadres through instruction led training as well as e-learning modules,his journey has been a great motivation.</p>
+
+<!--
+											<div class="speaker-website">
+												<h4>Website</h4>
+												<a href="#">www.johndoe.com</a>
+											</div>
+
+											<div class="speaker-social">
+												<h4>Social Profile</h4>
+												<a href="#"><i class="fa fa-facebook"></i></a>
+												<a href="#"><i class="fa fa-twitter"></i></a>
+												<a href="#"><i class="fa fa-instagram"></i></a>
+												<a href="#"><i class="fa fa fa-linkedin"></i></a>
+											</div>
+-->
+
+<!--
+											<div class="speaker-events">
+												<h4>Sessions</h4>
+												<div class="speaker-event">
+													<span><strong>Day 1 -</strong> February 20, 2018 8 : 00 AM - 11 : 00 AM</span>
+													<p>His id altera fabellas facilisis. Has eros assueverit cu</p>
+												</div>
+
+												<div class="speaker-event">
+													<span><strong>Day 2 -</strong> February 20, 2018 8 : 00 AM - 11 : 00 AM</span>
+													<p>At mucius deserunt delicatissimi eam, labitur detraxit ut sit</p>
+												</div>
+											</div>
+-->
+
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- /speaker modal -->
+                
+                   <!-- speaker modal -->
+				<div id="speaker-modal-4" class="speaker-modal modal fade">
+					<div class="modal-dialog">
+						<div class="modal-content">
+							<button type="button" class="speaker-modal-close" data-dismiss="modal"></button>
+							<div class="modal-body">
+								<div class="row">
+									<div class="col-md-5">
+										<div class="speaker-modal-img">
+											<img src="./img/tirthoriginal.jpg" alt="">
+										</div>
+									</div>
+									<div class="col-md-7">
+										<div class="speaker-modal-content">
+											<h2 class="speaker-name">Tirth Mehta</h2>
+                                            <br>
+											<span class="speaker-job">Sports Person</span>
+                                            
+											<p><br>23-years old Tirth  ‘gcttirth’ Mehta from Bhuj,Gujarat created history by winning the country’s first ever eSports medal at Asian games 2018, coming third and winning broze in the collectible card-based video game tournament, called Hearthstone.</p>
+
+<!--
+											<div class="speaker-website">
+												<h4>Website</h4>
+												<a href="#">www.johndoe.com</a>
+											</div>
+
+											<div class="speaker-social">
+												<h4>Social Profile</h4>
+												<a href="#"><i class="fa fa-facebook"></i></a>
+												<a href="#"><i class="fa fa-twitter"></i></a>
+												<a href="#"><i class="fa fa-instagram"></i></a>
+												<a href="#"><i class="fa fa fa-linkedin"></i></a>
+											</div>
+-->
+
+<!--
+											<div class="speaker-events">
+												<h4>Sessions</h4>
+												<div class="speaker-event">
+													<span><strong>Day 1 -</strong> February 20, 2018 8 : 00 AM - 11 : 00 AM</span>
+													<p>His id altera fabellas facilisis. Has eros assueverit cu</p>
+												</div>
+
+												<div class="speaker-event">
+													<span><strong>Day 2 -</strong> February 20, 2018 8 : 00 AM - 11 : 00 AM</span>
+													<p>At mucius deserunt delicatissimi eam, labitur detraxit ut sit</p>
+												</div>
+											</div>
+-->
+
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- /speaker modal -->
+                
+                    <!-- speaker modal -->
+				<div id="speaker-modal-5" class="speaker-modal modal fade">
+					<div class="modal-dialog">
+						<div class="modal-content">
+							<button type="button" class="speaker-modal-close" data-dismiss="modal"></button>
+							<div class="modal-body">
+								<div class="row">
+									<div class="col-md-5">
+										<div class="speaker-modal-img">
+											<img src="./img/riya2.jpg" alt="">
+										</div>
+									</div>
+									<div class="col-md-7">
+										<div class="speaker-modal-content">
+											<h2 class="speaker-name">Riya Sharma</h2>
+                                            <br>
+											<span class="speaker-job">Photographer</span>
+                                            
+											<p><br>She holds a professional press card from the new York institute of photography and is an official photographer for their photo world magazine. She is a photography business advisor /photography marketing  consultant and she provides the world’s most popular and inspirational photography training. Riya Sharma is an official member of more than 70 association, magazine, international art and cultural federation and etc.</p>
+
+<!--
+											<div class="speaker-website">
+												<h4>Website</h4>
+												<a href="#">www.johndoe.com</a>
+											</div>
+
+											<div class="speaker-social">
+												<h4>Social Profile</h4>
+												<a href="#"><i class="fa fa-facebook"></i></a>
+												<a href="#"><i class="fa fa-twitter"></i></a>
+												<a href="#"><i class="fa fa-instagram"></i></a>
+												<a href="#"><i class="fa fa fa-linkedin"></i></a>
+											</div>
+-->
+
+<!--
+											<div class="speaker-events">
+												<h4>Sessions</h4>
+												<div class="speaker-event">
+													<span><strong>Day 1 -</strong> February 20, 2018 8 : 00 AM - 11 : 00 AM</span>
+													<p>His id altera fabellas facilisis. Has eros assueverit cu</p>
+												</div>
+
+												<div class="speaker-event">
+													<span><strong>Day 2 -</strong> February 20, 2018 8 : 00 AM - 11 : 00 AM</span>
+													<p>At mucius deserunt delicatissimi eam, labitur detraxit ut sit</p>
+												</div>
+											</div>
+-->
+
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- /speaker modal -->
+                
+                     <!-- speaker modal -->
+				<div id="speaker-modal-6" class="speaker-modal modal fade">
+					<div class="modal-dialog">
+						<div class="modal-content">
+							<button type="button" class="speaker-modal-close" data-dismiss="modal"></button>
+							<div class="modal-body">
+								<div class="row">
+									<div class="col-md-5">
+										<div class="speaker-modal-img">
+											<img src="./img/mukesh.jpg" alt="">
+										</div>
+									</div>
+									<div class="col-md-7">
+										<div class="speaker-modal-content">
+											<h2 class="speaker-name">Mukesh Bavishi</h2>
+                                            <br>
+											<span class="speaker-job">Gynec Cancer Surgeon, Fertility Specialist, Cosmetic Surgeon</span>
+                                            
+											<p><br>He is a leading Gynec Surgeon, Fertility specialist, Gynec cancer surgeon and cosmetic surgeon for women practicing for 25 years now. He has invented 4 stichless surgeries for women,one of which he has named after his wife as Vidula’s operation. He has created a world record in Gynec surgeries and won 5 international and 11 national awards including the prestigious “American medal of honor”,” Ouststanding gynec-surgeon, USA” ,”Chikatsa Ratna”,”Indira Gandhi Sadbhavana Award”,”Gaurav Vanta Gujarati” award, ”Gynecologist of the year” by Indian Medical Association.</p>
+
+<!--
+											<div class="speaker-website">
+												<h4>Website</h4>
+												<a href="#">www.johndoe.com</a>
+											</div>
+
+											<div class="speaker-social">
+												<h4>Social Profile</h4>
+												<a href="#"><i class="fa fa-facebook"></i></a>
+												<a href="#"><i class="fa fa-twitter"></i></a>
+												<a href="#"><i class="fa fa-instagram"></i></a>
+												<a href="#"><i class="fa fa fa-linkedin"></i></a>
+											</div>
+-->
+
+<!--
+											<div class="speaker-events">
+												<h4>Sessions</h4>
+												<div class="speaker-event">
+													<span><strong>Day 1 -</strong> February 20, 2018 8 : 00 AM - 11 : 00 AM</span>
+													<p>His id altera fabellas facilisis. Has eros assueverit cu</p>
+												</div>
+
+												<div class="speaker-event">
+													<span><strong>Day 2 -</strong> February 20, 2018 8 : 00 AM - 11 : 00 AM</span>
+													<p>At mucius deserunt delicatissimi eam, labitur detraxit ut sit</p>
+												</div>
+											</div>
+-->
+
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- /speaker modal -->
+                
+                 <!-- speaker modal -->
+				<div id="speaker-modal-7" class="speaker-modal modal fade">
+					<div class="modal-dialog">
+						<div class="modal-content">
+							<button type="button" class="speaker-modal-close" data-dismiss="modal"></button>
+							<div class="modal-body">
+								<div class="row">
+									<div class="col-md-5">
+										<div class="speaker-modal-img">
+											<img src="./img/anil.jpg" alt="">
+										</div>
+									</div>
+									<div class="col-md-7">
+										<div class="speaker-modal-content">
+											<h2 class="speaker-name">Anil Kumar Gupta</h2>
+                                            <br>
+											<span class="speaker-job">Founder of Honey Bee Network and Professor at IIM Ahmedabad</span>
+                                            
+											<p><br>He is a scholar in the area of grassroots innovations. He is a founder of honey bee network and has been a Professor at the indian institute of Management,Ahmedabad. Besides  ,he holds the executive vice chair of the National innovation Foundation. He is also a fellow of the world Academy of Art and science. He was awarded the Padma Shri in the year 2004, for his contributions to management education.</p>
+
+<!--
+											<div class="speaker-website">
+												<h4>Website</h4>
+												<a href="#">www.johndoe.com</a>
+											</div>
+
+											<div class="speaker-social">
+												<h4>Social Profile</h4>
+												<a href="#"><i class="fa fa-facebook"></i></a>
+												<a href="#"><i class="fa fa-twitter"></i></a>
+												<a href="#"><i class="fa fa-instagram"></i></a>
+												<a href="#"><i class="fa fa fa-linkedin"></i></a>
+											</div>
+-->
+
+<!--
+											<div class="speaker-events">
+												<h4>Sessions</h4>
+												<div class="speaker-event">
+													<span><strong>Day 1 -</strong> February 20, 2018 8 : 00 AM - 11 : 00 AM</span>
+													<p>His id altera fabellas facilisis. Has eros assueverit cu</p>
+												</div>
+
+												<div class="speaker-event">
+													<span><strong>Day 2 -</strong> February 20, 2018 8 : 00 AM - 11 : 00 AM</span>
+													<p>At mucius deserunt delicatissimi eam, labitur detraxit ut sit</p>
+												</div>
+											</div>
+-->
+
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- /speaker modal -->
+                
+                   <!-- speaker modal -->
+				<div id="speaker-modal-8" class="speaker-modal modal fade">
+					<div class="modal-dialog">
+						<div class="modal-content">
+							<button type="button" class="speaker-modal-close" data-dismiss="modal"></button>
+							<div class="modal-body">
+								<div class="row">
+									<div class="col-md-5">
+										<div class="speaker-modal-img">
+											<img src="./img/krishna.jpg" alt="">
+										</div>
+									</div>
+									<div class="col-md-7">
+										<div class="speaker-modal-content">
+											<h2 class="speaker-name">Prof K. Thyagrajan</h2>
+                                            <br>
+											<span class="speaker-job">Prof. AT IIT DELHI , PHYSICS</span>
+                                            
+											<p><br>He is currently a professor at the Physics Department, IIT Delhi. He has held visiting positions at laboratoire central de recherches, Thomson-CSF France ,Department of electrical engineering, University of florida,USA,University of Waterloo,Canada, the city university of Hong kong and Tokyo insitutes of technology, japan. He has published more than 140 research papers in international journals, has filed five patent applications. In 1998 he was the co-recipient (with Prof B P Pal) of the "Fiber Optic Person of the Year 1997” award by Lucent Technologies- Finolex and Voice and Data, India. In 2003 he was decorated with the title of “Officier dans l’ordre des Palmes Académiques” by the French Government, in 2005 he was elected a Fellow of the Optical Society of America . In 2011 he received the “Teaching Excellence Award” from IIT Delhi.  </p>
+
+<!--
+											<div class="speaker-website">
+												<h4>Website</h4>
+												<a href="#">www.johndoe.com</a>
+											</div>
+
+											<div class="speaker-social">
+												<h4>Social Profile</h4>
+												<a href="#"><i class="fa fa-facebook"></i></a>
+												<a href="#"><i class="fa fa-twitter"></i></a>
+												<a href="#"><i class="fa fa-instagram"></i></a>
+												<a href="#"><i class="fa fa fa-linkedin"></i></a>
+											</div>
+-->
+
+<!--
+											<div class="speaker-events">
+												<h4>Sessions</h4>
+												<div class="speaker-event">
+													<span><strong>Day 1 -</strong> February 20, 2018 8 : 00 AM - 11 : 00 AM</span>
+													<p>His id altera fabellas facilisis. Has eros assueverit cu</p>
+												</div>
+
+												<div class="speaker-event">
+													<span><strong>Day 2 -</strong> February 20, 2018 8 : 00 AM - 11 : 00 AM</span>
+													<p>At mucius deserunt delicatissimi eam, labitur detraxit ut sit</p>
+												</div>
+											</div>
+-->
+
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- /speaker modal -->
+                
+                
 			</div>
 			<!-- /row -->
 		</div>
