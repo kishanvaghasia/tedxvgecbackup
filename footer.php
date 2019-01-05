@@ -19,8 +19,8 @@
 				<!-- contact social -->
 				<div class="col-md-4 col-md-push-4">
 					<div class="contact-social">
-						<a href="#"><i class="fa fa-facebook"></i></a>
-						<a href="#"><i class="fa fa-instagram"></i></a>
+						<a href="https://www.facebook.com/tedxvgec/"><i class="fa fa-facebook"></i></a>
+						<a href="https://www.instagram.com/explore/locations/1782640915117732/tedx-vgec?hl=en"><i class="fa fa-instagram"></i></a>
 					</div>
 				</div>
 				<!-- /contact social -->
