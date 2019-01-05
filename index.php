@@ -19,7 +19,7 @@ include("header.php");
 					<div class="col-md-8 col-md-offset-2">
 						<div class="home-content">
 							<h2>TEDxVGEC PRESENTS: CONNECTING..THE..DOTS</h2>
-							<h4 class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. /// ABOUT Connecting the dots ///</h4>
+							<h4 class="lead"> /// ABOUT Connecting the dots ///</h4>
 							<a href="#" class="main-btn">Buy Ticket</a>
 						</div>
 					</div>
@@ -45,7 +45,7 @@ include("header.php");
 				</div>
 				<!-- /section title -->
 
-				<div class="col-md-8 col-md-offset-2 text-center">
+				<div class="col-md-8 col-md-offset-2 text-justify">
 					<!-- about content -->
 					<h3>About TED</h3>
 					<div class="about-content">
@@ -54,6 +54,7 @@ include("header.php");
 						Ted has also established the annual Ted prize where exceptional individuals with a wish to change the world get a chance to complete their esteems by a focussed translation of their words into actions. Ted is simply driven by the single phased goal that GREAT IDEAS SHOULD BE MADE ACCESSIBLE TO ALL.
 						</p>
 					</div>
+				</br>
 					<div class="about-content">
 					<h3>About TEDx</h3>
 						<p><b>IDEAS ARE WORTH SHARING-</b>in the spirit of this Ted has started Tedx, a program of local, self organised events that bring people together under a single roof to share a ted-like experience. At Tedx events, Ted talks videos and live speaker combine to spark a deep discussion and connection with innovations and ideas. This local, self organised events are named as Tedx, where x=independently organised Ted events.</p>
@@ -64,53 +65,9 @@ include("header.php");
 				</div>
 				<!-- /section title -->
 
-				<p>There is a movement of people who are engaged in discussing innovations and are putting those notions into action to improve our own community. This very movement is <b>TedxVGEC.</b>
-				Vishwakarma Government Engineering College, popularly known as VGEC, is not merely an engineering college - it is an institution that frees the students' potential and henceforth places them infront of the challenging and competitive world ever since it's inception in August 1994.Entertaining it for the very first time under the banner name of VGEC , <b>TedxVGEC</b> imbues the progressive spirits found in the students at VGEC and is wishing to spread it’s enticement all over the region waiting beyond there. What is going to start as a small initiative, we expect to gain a wider momentum in the upcoming years.  As we are embracing other for the very first time, we are more excited about the opportunities that would be before us. At TedxVGEC we would try to continue with growth and evolvement by putting the ideas into the actions. <b>TedxVGEC</b> would surely be a community where <b>THE DEEPSPARK OF AN INNOVATION SETS ITS MOVEMENT OF PURPOSE AND ANTICIPATION. </b>
+				<p>There is a movement of people who are engaged in discussing innovations and are putting those notions into action to improve our own community. This very movement is <b>TedxVGEC.
+				Vishwakarma Government Engineering College,</b> popularly known as VGEC, is not merely an engineering college - it is an institution that frees the students' potential and henceforth places them infront of the challenging and competitive world ever since it's inception in August 1994.Entertaining it for the very first time under the banner name of VGEC , <b>TedxVGEC</b> imbues the progressive spirits found in the students at VGEC and is wishing to spread it’s enticement all over the region waiting beyond there. What is going to start as a small initiative, we expect to gain a wider momentum in the upcoming years.  As we are embracing other for the very first time, we are more excited about the opportunities that would be before us. At TedxVGEC we would try to continue with growth and evolvement by putting the ideas into the actions. <b>TedxVGEC</b> would surely be a community where <b>THE DEEPSPARK OF AN INNOVATION SETS ITS MOVEMENT OF PURPOSE AND ANTICIPATION. </b>
 				</p>
-
-					<!-- Numbers -->
-					<div id="numbers">
-						<!-- row -->
-						<div class="row">
-							<!-- number -->
-							<div class="col-md-3 col-sm-3 col-xs-6">
-								<div class="number">
-									<h3><span class="counter" data-from="0" data-to="10" data-speed="1500">0</span>+</h3>
-									<p>Hours</p>
-								</div>
-							</div>
-							<!-- /number -->
-
-							<!-- number -->
-							<div class="col-md-3 col-sm-3 col-xs-6">
-								<div class="number">
-									<h3><span class="counter" data-from="0" data-to="70" data-speed="1500">0</span>+</h3>
-									<p>Venues</p>
-								</div>
-							</div>
-							<!-- /number -->
-
-							<!-- number -->
-							<div class="col-md-3 col-sm-3 col-xs-6">
-								<div class="number">
-									<h3><span class="counter" data-from="0" data-to="20" data-speed="1500">0</span>+</h3>
-									<p>Country</p>
-								</div>
-							</div>
-							<!-- /number -->
-
-							<!-- number -->
-							<div class="col-md-3 col-sm-3 col-xs-6">
-								<div class="number">
-									<h3><span class="counter" data-from="0" data-to="20" data-speed="1500">0</span>+</h3>
-									<p>Speakers</p>
-								</div>
-							</div>
-							<!-- /number -->
-						</div>
-						<!-- /row -->
-					</div>
-					<!-- /Numbers -->
 				</div>
 			</div>
 			<!-- row -->
@@ -167,7 +124,7 @@ include("header.php");
 				<!-- cta content -->
 				<div class="col-md-8 col-md-offset-2">
 					<div class="cta-content text-center">
-						<a class="video-play" href="https://www.youtube.com/watch?time_continue=25&v=N-l1xtCMnpw">
+						<a class="video-play" href="https://www.youtube.com/watch?v=N-l1xtCMnpw">
 							<i class="fa fa-play"></i>
 						</a>
 						<h2>Watch this video</h2>
@@ -689,7 +646,7 @@ include("header.php");
 				<div class="col-md-8 col-md-offset-2">
 					<div class="cta-content text-center">
 						<h2>Get Ticket Now!</h2>
-						<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+						<p class="lead">Grab Your Tickets Right Now Before Someone Else Does!!</p>
 						<a href="#" class="main-btn">Buy Ticket</a>
 					</div>
 				</div>
@@ -717,7 +674,7 @@ include("header.php");
 				<div class="col-sm-4">
 					<div class="contact">
 						<h3>Address</h3>
-						<p>2635 Simons Hollow Road, NEW YORK</p>
+						<p>Vishwakarma Government Engineering College, Nr. Visat Three Roads, Sabarmati-Koba Highway, Chandkheda, Ahmedabad, Gujarat 382424</p>
 					</div>
 				</div>
 				<!-- /contact -->
@@ -726,7 +683,7 @@ include("header.php");
 				<div class="col-sm-4">
 					<div class="contact">
 						<h3>Phone</h3>
-						<p>570-751-2415</p>
+						<a href="tel:+91 7490832150">+91 7490832150</p>
 					</div>
 				</div>
 				<!-- /contact -->
@@ -735,7 +692,7 @@ include("header.php");
 				<div class="col-sm-4">
 					<div class="contact">
 						<h3>Email</h3>
-						<a href="#">event@support.com</a>
+						<a href="mailto:tedxvgce@vgecg.ac.in">tedxvgce@vgecg.ac.in</a>
 					</div>
 				</div>
 				<!-- /contact -->

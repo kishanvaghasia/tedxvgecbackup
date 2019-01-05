@@ -85,7 +85,6 @@
 					<li><a href="#speakers">Speakers</a></li>
 					<li><a href="#sponsors">Sponsors</a></li>
 					<li><a href="#contact">Contact</a></li>
-					<li><a href="blog.html">Blog</a></li>
 				</ul>
 			</nav>
 			<!-- /Navigation -->
