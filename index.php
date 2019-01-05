@@ -129,7 +129,7 @@ include("header.php");
 				<div id="galery-owl" class="owl-carousel owl-theme">
 					<!-- galery item -->
 					<div class="galery-item">
-						<img src="./img/galery01.jpg" alt="">
+						<img src="./img/building3.jpg" alt="">
 					</div>
 					<!-- /galery item -->
 

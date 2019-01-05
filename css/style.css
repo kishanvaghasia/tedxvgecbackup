@@ -415,6 +415,7 @@ textarea.input {
 
 #galery-owl .owl-item .galery-item {
   opacity: 0.5;
+
   -webkit-transform: scale(0.9);
   -ms-transform: scale(0.9);
   transform: scale(0.9);
