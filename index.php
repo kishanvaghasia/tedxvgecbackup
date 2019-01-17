@@ -59,14 +59,55 @@ include("header.php");
 						<p><b>IDEAS ARE WORTH SHARING-</b>in the spirit of this Ted has started Tedx, a program of local, self organised events that bring people together under a single roof to share a ted-like experience. At Tedx events, Ted talks videos and live speaker combine to spark a deep discussion and connection with innovations and ideas. This local, self organised events are named as Tedx, where x=independently organised Ted events.</p>
 					</div>
 					<!-- /about content -->
+                
+                	<!-- Video CTA -->
+	<div id="video-cta" class="section">
+		<!-- background image -->
+		<div class="section-bg" style="background-image:url(./img/background02.jpg)" data-stellar-background-ratio="0.5"></div>
+		<!-- /background image -->
+
+		<!-- container -->
+		<div class="container">
+			<!-- row -->
+			<div class="row">
+				<!-- cta content -->
+				<div class="col-md-8 col-md-offset-2">
+					<div class="cta-content text-center">
+						<a class="video-play" href="https://www.youtube.com/watch?v=N-l1xtCMnpw">
+							<i class="fa fa-play"></i>
+						</a>
+						<h2>Watch this video</h2>
+						<p class="lead">What Is TEDx?</p>
+					</div>
+				</div>
+				<!-- /cta content -->
+			</div>
+			<!-- /row -->
+		</div>
+		<!-- /container -->
+	</div>
+	<!-- /Video CTA -->
+                
+                
+                
+                
+                
+                
 				<div class="section-title">
 					<h3 class="title"><span>About</span> <span style="color: #e62b1e;">TEDxVGEC</span></h3>
 				</div>
 				<!-- /section title -->
 
+                <p>TEDxVGEC is an independently organized TED event by <b>Vishwakarma Government Engineering College, Chandkheda</b> (VGEC Chandkheda). VGEC is not merely an engineering college -  it is an institution that unleashes students' potential and places them in front of competitions and challenges. Entertaining it for the first time under the banner name of VGEC, <b>TEDxVGEC</b> imbues the progressive spirit found in the students of VGEC and is desperate to spread its enticement all over the region waiting beyond there. What is going to start as a small initiative, is expected to gain momentum the upcoming years. With this event being organized for the first time in VGEC Chandkheda, we are exhilarated about the opportunities with us. <b>TEDxVGEC</b> would surely be a community where the deep spark on an innovation sets its movement of purpose and anticipation.         
+          
+				</p>
+                
+               
+<!--
 				<p>There is a movement of people who are engaged in discussing innovations and are putting those notions into action to improve our own community. This very movement is <b>TedxVGEC.
 				Vishwakarma Government Engineering College,</b> popularly known as VGEC, is not merely an engineering college - it is an institution that  the students' potential and henceforth places them infront of the challenging and competitive world ever since it's inception in August 1994. Entertaining it for the very first time under the banner name of VGEC , <b>TedxVGEC</b> imbues the progressive spirits found in the students at VGEC and is wishing to spread it’s enticement all over the region waiting beyond there. What is going to start as a small initiative, we expect to gain a wider momentum in the upcoming years.  As we are embracing other for the very first time, we are more excited about the opportunities that would be before us. At TedxVGEC we would try to continue with growth and evolvement by putting the ideas into the actions. <b>TedxVGEC</b> would surely be a community where <b>THE DEEPSPARK OF AN INNOVATION SETS ITS MOVEMENT OF PURPOSE AND ANTICIPATION. </b>
 				</p>
+-->
 				</div>
 			</div>
 			<!-- row -->
@@ -88,6 +129,14 @@ include("header.php");
 						<img src="./img/gl01.jpg" alt="">
 					</div>
 					<!-- /galery item -->
+                    
+                    
+                    <!-- galery item -->
+					<div class="galery-item">
+						<img src="./img/comingsoonp.jpg" alt="">
+					</div>
+					<!-- /galery item -->
+                    
 
 					<!-- galery item -->
 					<div class="galery-item">
@@ -97,7 +146,7 @@ include("header.php");
 
 					<!-- galery item -->
 					<div class="galery-item">
-						<img src="./img/gl03.jpg" alt="">
+						<img src="./img/steve.jpg" alt="">
 					</div>
 					<!-- /galery item -->
 
@@ -110,36 +159,11 @@ include("header.php");
 	</div>
 	<!-- /Galery -->
 
-	<!-- Video CTA -->
-	<div id="video-cta" class="section">
-		<!-- background image -->
-		<div class="section-bg" style="background-image:url(./img/background02.jpg)" data-stellar-background-ratio="0.5"></div>
-		<!-- /background image -->
 
-		<!-- container -->
-		<div class="container">
-			<!-- row -->
-			<div class="row">
-				<!-- cta content -->
-				<div class="col-md-8 col-md-offset-2">
-					<div class="cta-content text-center">
-						<a class="video-play" href="https://www.youtube.com/watch?v=N-l1xtCMnpw">
-							<i class="fa fa-play"></i>
-						</a>
-						<h2>Watch this video</h2>
-						<p class="lead">What TEDx Is?</p>
-					</div>
-				</div>
-				<!-- /cta content -->
-			</div>
-			<!-- /row -->
-		</div>
-		<!-- /container -->
-	</div>
-	<!-- /Video CTA -->
 
 	<!-- Event Schedule -->
 	<div id="schedule" class="section">
+		<!-- container -->
 		<!-- container -->
 		<div class="container">
 			<!-- row -->
@@ -420,8 +444,67 @@ include("header.php");
 					<h3 class="title"><span>Our</span> <span style="color: #e62b1e;">Speakers</span></h3>
 				</div>
 				<!-- section title -->
+                
+                
+                   <!-- speaker -->
+				<div class="col-md-4 col-sm-6">
+					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-5">
+						<div class="speaker-img">
+							<img src="./img/riya2%20-%20Copy.jpg" alt="">
+						</div>
+						<div class="speaker-body">
 
+							<div class="speaker-social">
+								<a href="#"><i class="fa fa-facebook"></i></a>
+								<a href="#"><i class="fa fa-twitter"></i></a>
+								<a href="#"><i class="fa fa-instagram"></i></a>
+								<a href="#"><i class="fa fa fa-linkedin"></i></a>
+							</div>
+
+							<div class="speaker-content">
+								<h2>Riya Sharma</h2>
+								<span>Photographer</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- /speaker -->
+                
+                
+                
+                
+                
+
+                <!-- speaker -->
+				<div class="col-md-4 col-sm-6">
+					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-one">
+						<div class="speaker-img">
+							<img src="./img/QMarkSmall%20-%20Copy.jpg" alt="">
+						</div>
+						<div class="speaker-body">
+
+<!--
+							<div class="speaker-social">
+								<a href="#"><i class="fa fa-facebook"></i></a>
+								<a href="#"><i class="fa fa-twitter"></i></a>
+								<a href="#"><i class="fa fa-instagram"></i></a>
+								<a href="#"><i class="fa fa fa-linkedin"></i></a>
+							</div>
+-->
+
+							<div class="speaker-content">
+								<h2>Coming Soon</h2>
+								<span></span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- /speaker -->
+                
+                
+                
 				<!-- speaker -->
+<!--
 				<div class="col-md-4 col-sm-6">
 					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-1">
 						<div class="speaker-img">
@@ -443,6 +526,7 @@ include("header.php");
 						</div>
 					</div>
 				</div>
+-->
 				<!-- /speaker -->
 
 				<!-- speaker
@@ -469,7 +553,41 @@ include("header.php");
 				</div>
 				-->
 
+                
+                <!-- speaker -->
+				<div class="col-md-4 col-sm-6">
+					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-one">
+						<div class="speaker-img">
+							<img src="./img/QMarkSmall%20-%20Copy.jpg" alt="">
+						</div>
+						<div class="speaker-body">
+
+<!--
+							<div class="speaker-social">
+								<a href="#"><i class="fa fa-facebook"></i></a>
+								<a href="#"><i class="fa fa-twitter"></i></a>
+								<a href="#"><i class="fa fa-instagram"></i></a>
+								<a href="#"><i class="fa fa fa-linkedin"></i></a>
+							</div>
+-->
+
+							<div class="speaker-content">
+								<h2>Coming Soon</h2>
+								<span></span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- /speaker -->
+                
+                
+                
+                
+                
+                
+                
 				<!-- speaker -->
+<!--
 				<div class="col-md-4 col-sm-6">
 					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-3">
 						<div class="speaker-img">
@@ -491,6 +609,7 @@ include("header.php");
 						</div>
 					</div>
 				</div>
+-->
 				<!-- /speaker -->
                 
                 <!-- 
@@ -520,29 +639,38 @@ include("header.php");
                 
                 <!-- speaker -->
 				<div class="col-md-4 col-sm-6">
-					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-5">
+					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-one">
 						<div class="speaker-img">
-							<img src="./img/riya2%20-%20Copy.jpg" alt="">
+							<img src="./img/QMarkSmall%20-%20Copy.jpg" alt="">
 						</div>
 						<div class="speaker-body">
 
+<!--
 							<div class="speaker-social">
 								<a href="#"><i class="fa fa-facebook"></i></a>
 								<a href="#"><i class="fa fa-twitter"></i></a>
 								<a href="#"><i class="fa fa-instagram"></i></a>
 								<a href="#"><i class="fa fa fa-linkedin"></i></a>
 							</div>
+-->
 
 							<div class="speaker-content">
-								<h2>Riya Sharma</h2>
-								<span>Photographer</span>
+								<h2>Coming Soon</h2>
+								<span></span>
 							</div>
 						</div>
 					</div>
 				</div>
 				<!-- /speaker -->
                 
+                
+                
+                
+                
+             
+                
                 <!-- speaker -->
+<!--
 				<div class="col-md-4 col-sm-6">
 					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-6">
 						<div class="speaker-img">
@@ -564,6 +692,7 @@ include("header.php");
 						</div>
 					</div>
 				</div>
+-->
 				<!-- /speaker -->
 
 				<!--                 
@@ -614,6 +743,120 @@ include("header.php");
 				</div>
 				-->
 
+                
+                
+                            <!-- speaker -->
+				<div class="col-md-4 col-sm-6">
+					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-one">
+						<div class="speaker-img">
+							<img src="./img/QMarkSmall%20-%20Copy.jpg" alt="">
+						</div>
+						<div class="speaker-body">
+
+<!--
+							<div class="speaker-social">
+								<a href="#"><i class="fa fa-facebook"></i></a>
+								<a href="#"><i class="fa fa-twitter"></i></a>
+								<a href="#"><i class="fa fa-instagram"></i></a>
+								<a href="#"><i class="fa fa fa-linkedin"></i></a>
+							</div>
+-->
+
+							<div class="speaker-content">
+								<h2>Coming Soon</h2>
+								<span></span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- /speaker -->
+                
+                
+                
+                
+                            <!-- speaker -->
+				<div class="col-md-4 col-sm-6">
+					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-one">
+						<div class="speaker-img">
+							<img src="./img/QMarkSmall%20-%20Copy.jpg" alt="">
+						</div>
+						<div class="speaker-body">
+
+<!--
+							<div class="speaker-social">
+								<a href="#"><i class="fa fa-facebook"></i></a>
+								<a href="#"><i class="fa fa-twitter"></i></a>
+								<a href="#"><i class="fa fa-instagram"></i></a>
+								<a href="#"><i class="fa fa fa-linkedin"></i></a>
+							</div>
+-->
+
+							<div class="speaker-content">
+								<h2>Coming Soon</h2>
+								<span></span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- /speaker -->
+                
+                
+                
+                
+                            <!-- speaker -->
+				<div class="col-md-4 col-sm-6">
+					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-one">
+						<div class="speaker-img">
+							<img src="./img/QMarkSmall%20-%20Copy.jpg" alt="">
+						</div>
+						<div class="speaker-body">
+
+<!--
+							<div class="speaker-social">
+								<a href="#"><i class="fa fa-facebook"></i></a>
+								<a href="#"><i class="fa fa-twitter"></i></a>
+								<a href="#"><i class="fa fa-instagram"></i></a>
+								<a href="#"><i class="fa fa fa-linkedin"></i></a>
+							</div>
+-->
+
+							<div class="speaker-content">
+								<h2>Coming Soon</h2>
+								<span></span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- /speaker -->
+                
+                
+                            <!-- speaker -->
+				<div class="col-md-4 col-sm-6">
+					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-one">
+						<div class="speaker-img">
+							<img src="./img/QMarkSmall%20-%20Copy.jpg" alt="">
+						</div>
+						<div class="speaker-body">
+
+<!--
+							<div class="speaker-social">
+								<a href="#"><i class="fa fa-facebook"></i></a>
+								<a href="#"><i class="fa fa-twitter"></i></a>
+								<a href="#"><i class="fa fa-instagram"></i></a>
+								<a href="#"><i class="fa fa fa-linkedin"></i></a>
+							</div>
+-->
+
+							<div class="speaker-content">
+								<h2>Coming Soon</h2>
+								<span></span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- /speaker -->
+                
+                
                 
                 
                 
@@ -874,7 +1117,7 @@ include("header.php");
                                             <br>
 											<span class="speaker-job">Photographer</span>
                                             
-											<p><br>She holds a professional press card from the new York institute of photography and is an official photographer for their photo world magazine. She is a photography business advisor /photography marketing  consultant and she provides the world’s most popular and inspirational photography training. Riya Sharma is an official member of more than 70 association, magazine, international art and cultural federation and etc.</p>
+											<p><br>Riya Sharma creates beautiful artwork using photography, paint, and digital elements. She has recently been listed as an internet sensation who is followed by an estimated 26% of Americans, 21% Brazil, 7% Indonesia via Instagram.In fact, for the past two years she has been an influencer who has achieved global acclaim. Now ranked 25 in the country of Brazil. She is well known speaker for art talk shows in USA. She is a professional press card holder from the New York Institute of Photography,  is an official photographer for their Photo World Magazine. Riya Sharma is an official member of more than 70 association, magazine, international art and cultural Federation etc. She has represented India in many international Countries as a Sole Indian Photographer and won 100+ global awards such as Tokyo photo awards , Global art Awards etc.</p>
 
 <!--
 											<div class="speaker-website">
@@ -1109,7 +1352,7 @@ include("header.php");
 				<!-- sponsor -->
 				<div class="col-md-3 col-sm-4 col-xs-6">
 					<a href="#" class="sponsor">
-						<img src="./img/sponsor.png" alt="">
+						<img src="./img/ahlive.jpg" alt="">
 					</a>
 				</div>
 				<!-- /sponsor -->
@@ -1117,7 +1360,7 @@ include("header.php");
 				<!-- sponsor -->
 				<div class="col-md-3 col-sm-4 col-xs-6">
 					<a href="#" class="sponsor">
-						<img src="./img/sponsor.png" alt="">
+						<img src="./img/gozel.jpg" alt="">
 					</a>
 				</div>
 				<!-- /sponsor -->
@@ -1125,7 +1368,7 @@ include("header.php");
 				<!-- sponsor -->
 				<div class="col-md-3 col-sm-4 col-xs-6">
 					<a href="#" class="sponsor">
-						<img src="./img/sponsor.png" alt="">
+						<img src="./img/endeavor.jpg" alt="">
 					</a>
 				</div>
 				<!-- /sponsor -->
@@ -1133,39 +1376,7 @@ include("header.php");
 				<!-- sponsor -->
 				<div class="col-md-3 col-sm-4 col-xs-6">
 					<a href="#" class="sponsor">
-						<img src="./img/sponsor.png" alt="">
-					</a>
-				</div>
-				<!-- /sponsor -->
-
-				<!-- sponsor -->
-				<div class="col-md-3 col-sm-4 col-xs-6">
-					<a href="#" class="sponsor">
-						<img src="./img/sponsor.png" alt="">
-					</a>
-				</div>
-				<!-- /sponsor -->
-
-				<!-- sponsor -->
-				<div class="col-md-3 col-sm-4 col-xs-6">
-					<a href="#" class="sponsor">
-						<img src="./img/sponsor.png" alt="">
-					</a>
-				</div>
-				<!-- /sponsor -->
-
-				<!-- sponsor -->
-				<div class="col-md-3 col-sm-4 col-xs-6">
-					<a href="#" class="sponsor">
-						<img src="./img/sponsor.png" alt="">
-					</a>
-				</div>
-				<!-- /sponsor -->
-
-				<!-- sponsor -->
-				<div class="col-md-3 col-sm-4 col-xs-6">
-					<a href="#" class="sponsor">
-						<img src="./img/sponsor.png" alt="">
+						<img src="./img/karkhana.jpg" alt="">
 					</a>
 				</div>
 				<!-- /sponsor -->
@@ -1237,7 +1448,7 @@ include("header.php");
 				<div class="col-sm-4">
 					<div class="contact">
 						<h3>Email</h3>
-						<a href="mailto:tedxvgce@vgecg.ac.in">tedxvgce@vgecg.ac.in</a>
+						<a href="mailto:tedxvgce@vgecg.ac.in">tedxvgec@vgecg.ac.in</a>
 					</div>
 				</div>
 				<!-- /contact -->

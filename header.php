@@ -7,6 +7,7 @@
 	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
 	<title>TEDxVGEC Official Website</title>
+    <link rel="shortcut icon" href="./img/favicon.ico" type="image/x-icon" />
 
 	<!-- Google font -->
 	<link href="https://fonts.googleapis.com/css?family=Poppins:400,700,900" rel="stylesheet">
@@ -64,6 +65,10 @@
 					<a class="logo" href="index.php">
 						<img class="logo-img" src="./img/logo.png" alt="logo">
 						<img class="logo-alt-img" src="./img/logo-alt.png" alt="logo">
+                       
+                        <img class="logo-img" src="./img/VGEC_logotranswhite.jpg" alt="logo">
+                         <img class="logo-alt-img" src="./img/VGEC_logotrans.png" alt="logo">
+                        
 					</a>
 				</div>
 				<!-- /Logo -->
