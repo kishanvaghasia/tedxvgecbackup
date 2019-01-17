@@ -25,6 +25,7 @@ body {
     position: absolute;
     .size(100%);
     text-align: center;
+
     &:after {
       content: '';
       display: inline-block;
@@ -38,6 +39,7 @@ body {
       vertical-align: middle;
       text-align: left;
       font-size: 0;
+      height: 100%;
     }
   }
 }
@@ -101,9 +103,10 @@ body {
   height: 100%;
   width: 100%;
   background:rgba(0,0,0,.8);
-  position: fixed;
-  left:0;
+  position: absolute;
+  left: 0;
   top: 0;
+  text-align: center;
 }
 
 #particles-background {

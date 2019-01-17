@@ -48,7 +48,6 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script>
 	<script src="js/jquery.stellar.min.js"></script>
 	<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
 	<script src="js/google-map.js"></script>
-	<script src="js/jquery.countTo.js"></script>
 	<script src="js/preloader.js"></script>
 	<script src="js/main.js"></script>
 

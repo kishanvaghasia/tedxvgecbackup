@@ -1,5 +1,4 @@
 <?php
-
 include("header.php"); 
 ?>
 
@@ -7,7 +6,7 @@ include("header.php");
 	<div id="home">
 		<!-- background image -->
 		<div class="section-bg" style="background-image:url(./img/background01.jpg)" data-stellar-background-ratio="0.5"></div>
-		<!-- /background image -->
+	
 
 		<!-- home wrapper -->
 		<div class="home-wrapper">
@@ -19,8 +18,8 @@ include("header.php");
 					<div class="col-md-8 col-md-offset-2">
 						<div class="home-content">
 							<h2>TEDxVGEC PRESENTS: CONNECTING..THE..DOTS</h2>
-							<h4 class="lead"> /// ABOUT Connecting the dots ///</h4>
-							<a href="#" class="main-btn">Buy Ticket</a>
+							<h4 class="lead"> You can't connect the dots looking forward,</br> You can only connect them looking backward </h4>
+							<a style="background-color: #e62b1e;" target="_blank" href="https://www.onlinesbi.com/sbicollect/icollecthome.htm" class="main-btn">Buy Ticket</a> 
 						</div>
 					</div>
 					<!-- /home content -->
@@ -41,11 +40,11 @@ include("header.php");
 			<div class="row">
 				<!-- section title -->
 				<div class="section-title">
-					<h3 class="title"><span>About</span> <span style="color: #dd0a37;">TED & TEDx</span></h3>
+					<h3 class="title"><span>About</span> <span style="color: #e62b1e;">TED & TEDx</span></h3>
 				</div>
 				<!-- /section title -->
 
-				<div class="col-md-8 col-md-offset-2 text-justify">
+				<div class="col-md-12 col-md-offset-0 text-justify">
 					<!-- about content -->
 					<h3>About TED</h3>
 					<div class="about-content">
@@ -61,12 +60,12 @@ include("header.php");
 					</div>
 					<!-- /about content -->
 				<div class="section-title">
-					<h3 class="title"><span>About</span> <span style="color: #dd0a37;">TEDxVGEC</span></h3>
+					<h3 class="title"><span>About</span> <span style="color: #e62b1e;">TEDxVGEC</span></h3>
 				</div>
 				<!-- /section title -->
 
 				<p>There is a movement of people who are engaged in discussing innovations and are putting those notions into action to improve our own community. This very movement is <b>TedxVGEC.
-				Vishwakarma Government Engineering College,</b> popularly known as VGEC, is not merely an engineering college - it is an institution that frees the students' potential and henceforth places them infront of the challenging and competitive world ever since it's inception in August 1994.Entertaining it for the very first time under the banner name of VGEC , <b>TedxVGEC</b> imbues the progressive spirits found in the students at VGEC and is wishing to spread it’s enticement all over the region waiting beyond there. What is going to start as a small initiative, we expect to gain a wider momentum in the upcoming years.  As we are embracing other for the very first time, we are more excited about the opportunities that would be before us. At TedxVGEC we would try to continue with growth and evolvement by putting the ideas into the actions. <b>TedxVGEC</b> would surely be a community where <b>THE DEEPSPARK OF AN INNOVATION SETS ITS MOVEMENT OF PURPOSE AND ANTICIPATION. </b>
+				Vishwakarma Government Engineering College,</b> popularly known as VGEC, is not merely an engineering college - it is an institution that  the students' potential and henceforth places them infront of the challenging and competitive world ever since it's inception in August 1994. Entertaining it for the very first time under the banner name of VGEC , <b>TedxVGEC</b> imbues the progressive spirits found in the students at VGEC and is wishing to spread it’s enticement all over the region waiting beyond there. What is going to start as a small initiative, we expect to gain a wider momentum in the upcoming years.  As we are embracing other for the very first time, we are more excited about the opportunities that would be before us. At TedxVGEC we would try to continue with growth and evolvement by putting the ideas into the actions. <b>TedxVGEC</b> would surely be a community where <b>THE DEEPSPARK OF AN INNOVATION SETS ITS MOVEMENT OF PURPOSE AND ANTICIPATION. </b>
 				</p>
 				</div>
 			</div>
@@ -86,19 +85,19 @@ include("header.php");
 				<div id="galery-owl" class="owl-carousel owl-theme">
 					<!-- galery item -->
 					<div class="galery-item">
-						<img src="./img/building3.jpg" alt="">
+						<img src="./img/gl01.jpg" alt="">
 					</div>
 					<!-- /galery item -->
 
 					<!-- galery item -->
 					<div class="galery-item">
-						<img src="./img/galery02.jpg" alt="">
+						<img src="./img/gl02.jpg" alt="">
 					</div>
 					<!-- /galery item -->
 
 					<!-- galery item -->
 					<div class="galery-item">
-						<img src="./img/galery03.jpg" alt="">
+						<img src="./img/gl03.jpg" alt="">
 					</div>
 					<!-- /galery item -->
 
@@ -147,7 +146,7 @@ include("header.php");
 			<div class="row">
 				<!-- section title -->
 				<div class="section-title">
-					<h3 class="title"><span>Event</span> <span style="color: #dd0a37;">Schedule</span></h3>
+					<h3 class="title"><span>Event</span> <span style="color: #e62b1e;">Schedule</span></h3>
 				</div>
 				<!-- /section title -->
 
@@ -159,7 +158,7 @@ include("header.php");
 							<div class="event-day">
 								<div>
 									<span class="day">28</span>
-									<span class="year">Feb, 2018</span>
+									<span class="year">Feb, 2019</span>
 								</div>
 							</div>
 							<div class="event-content">
@@ -399,7 +398,7 @@ include("header.php");
                     
 
 					<div class="download-btn">
-						<a href="#" class="main-btn">Download Schedule</a>
+						<a style="background-color: #e62b1e;" href="#" class="main-btn">Download Schedule</a>
 					</div>
 
 				</div>
@@ -418,7 +417,7 @@ include("header.php");
 			<div class="row">
 				<!-- section title -->
 				<div class="section-title">
-					<h3 class="title"><span>Our</span> <span style="color: #dd0a37;">Speakers</span></h3>
+					<h3 class="title"><span>Our</span> <span style="color: #e62b1e;">Speakers</span></h3>
 				</div>
 				<!-- section title -->
 
@@ -429,14 +428,14 @@ include("header.php");
 							<img src="./img/arunkumar%20-%20Copy.jpg" alt="">
 						</div>
 						<div class="speaker-body">
-<!--
+
 							<div class="speaker-social">
 								<a href="#"><i class="fa fa-facebook"></i></a>
 								<a href="#"><i class="fa fa-twitter"></i></a>
 								<a href="#"><i class="fa fa-instagram"></i></a>
 								<a href="#"><i class="fa fa fa-linkedin"></i></a>
 							</div>
--->
+
 							<div class="speaker-content">
 								<h2>Arun Kumar Bajaj</h2>
 								<span>Sewing Machine Artist</span>
@@ -477,14 +476,14 @@ include("header.php");
 							<img src="./img/anand%20-%20Copy.jpg" alt="">
 						</div>
 						<div class="speaker-body">
-<!--
+
 							<div class="speaker-social">
 								<a href="#"><i class="fa fa-facebook"></i></a>
 								<a href="#"><i class="fa fa-twitter"></i></a>
 								<a href="#"><i class="fa fa-instagram"></i></a>
 								<a href="#"><i class="fa fa fa-linkedin"></i></a>
 							</div>
--->
+
 							<div class="speaker-content">
 								<h2>Anand Bhatnagar</h2>
 								<span>Asst. Vice President Reliance</span>
@@ -526,14 +525,14 @@ include("header.php");
 							<img src="./img/riya2%20-%20Copy.jpg" alt="">
 						</div>
 						<div class="speaker-body">
-<!--
+
 							<div class="speaker-social">
 								<a href="#"><i class="fa fa-facebook"></i></a>
 								<a href="#"><i class="fa fa-twitter"></i></a>
 								<a href="#"><i class="fa fa-instagram"></i></a>
 								<a href="#"><i class="fa fa fa-linkedin"></i></a>
 							</div>
--->
+
 							<div class="speaker-content">
 								<h2>Riya Sharma</h2>
 								<span>Photographer</span>
@@ -550,14 +549,14 @@ include("header.php");
 							<img src="./img/mukesh%20-%20Copy.jpg" alt="">
 						</div>
 						<div class="speaker-body">
-<!--
+
 							<div class="speaker-social">
 								<a href="#"><i class="fa fa-facebook"></i></a>
 								<a href="#"><i class="fa fa-twitter"></i></a>
 								<a href="#"><i class="fa fa-instagram"></i></a>
 								<a href="#"><i class="fa fa fa-linkedin"></i></a>
 							</div>
--->
+
 							<div class="speaker-content">
 								<h2>Mukesh Bavishi</h2>
 								<span>Gynec Cance Surgeon,Fertility Specialist, Cosmetic Surgeon </span>
@@ -936,11 +935,11 @@ include("header.php");
                                             
 											<p><br>He is a leading Gynec Surgeon, Fertility specialist, Gynec cancer surgeon and cosmetic surgeon for women practicing for 25 years now. He has invented 4 stichless surgeries for women,one of which he has named after his wife as Vidula’s operation. He has created a world record in Gynec surgeries and won 5 international and 11 national awards including the prestigious “American medal of honor”,” Ouststanding gynec-surgeon, USA” ,”Chikatsa Ratna”,”Indira Gandhi Sadbhavana Award”,”Gaurav Vanta Gujarati” award, ”Gynecologist of the year” by Indian Medical Association.</p>
 
-<!--
-											<div class="speaker-website">
+
+											 <div class="speaker-website">
 												<h4>Website</h4>
 												<a href="#">www.johndoe.com</a>
-											</div>
+											</div> 
 
 											<div class="speaker-social">
 												<h4>Social Profile</h4>
@@ -949,22 +948,17 @@ include("header.php");
 												<a href="#"><i class="fa fa-instagram"></i></a>
 												<a href="#"><i class="fa fa fa-linkedin"></i></a>
 											</div>
--->
 
-<!--
+
+
 											<div class="speaker-events">
-												<h4>Sessions</h4>
+												<h4>Session</h4>
 												<div class="speaker-event">
 													<span><strong>Day 1 -</strong> February 20, 2018 8 : 00 AM - 11 : 00 AM</span>
 													<p>His id altera fabellas facilisis. Has eros assueverit cu</p>
 												</div>
-
-												<div class="speaker-event">
-													<span><strong>Day 2 -</strong> February 20, 2018 8 : 00 AM - 11 : 00 AM</span>
-													<p>At mucius deserunt delicatissimi eam, labitur detraxit ut sit</p>
-												</div>
 											</div>
--->
+
 
 										</div>
 									</div>
@@ -1108,7 +1102,7 @@ include("header.php");
 			<div class="row">
 				<!-- section title -->
 				<div class="section-title">
-					<h3 class="title"><span>Our</span> <span style="color: #dd0a37;">Sponsors</span></h3>
+					<h3 class="title"><span>Our</span> <span style="color: #e62b1e;">Sponsors</span></h3>
 				</div>
 				<!-- /section title -->
 
@@ -1198,7 +1192,7 @@ include("header.php");
 					<div class="cta-content text-center">
 						<h2>Get Ticket Now!</h2>
 						<p class="lead">Grab Your Tickets Right Now Before Someone Else Does!!</p>
-						<a href="#" class="main-btn">Buy Ticket</a>
+						<a style="background-color: #e62b1e;" href="https://www.onlinesbi.com/sbicollect/icollecthome.htm" class="main-btn">Buy Ticket</a>
 					</div>
 				</div>
 				<!-- /cta content -->
@@ -1217,7 +1211,7 @@ include("header.php");
 			<div class="row">
 				<!-- section title -->
 				<div class="section-title">
-					<h3 class="title"><span>Contact</span> <span style="color: #dd0a37;">Info</span></h3>
+					<h3 class="title"><span>Contact</span> <span style="color: #e62b1e;">Info</span></h3>
 				</div>
 				<!-- /section title -->
 

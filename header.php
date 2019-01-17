@@ -34,8 +34,8 @@
 </head>
 <body>
 
-	<!-- PreLoader -->
-	<div id="overlay">
+	<!-- PreLoader 
+<div id="overlay">
 <div id="particles-background" class="vertical-centered-box"></div>
 <div id="particles-foreground" class="vertical-centered-box"></div>
 
@@ -51,7 +51,7 @@
   </div>
 </div>
 </div>
-<!-- /PreLoader -->
+ -->
 
 	<!-- Header -->
 	<header id="header" class="transparent-navbar">
@@ -61,7 +61,7 @@
 			<div class="navbar-header">
 				<!-- Logo -->
 				<div class="navbar-brand">
-					<a class="logo" href="index.html">
+					<a class="logo" href="index.php">
 						<img class="logo-img" src="./img/logo.png" alt="logo">
 						<img class="logo-alt-img" src="./img/logo-alt.png" alt="logo">
 					</a>
