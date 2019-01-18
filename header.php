@@ -72,7 +72,7 @@
 					<li><a href="#speakers">Speakers</a></li>
 					<li><a href="#schedule">Schedule</a></li>
 					<li><a href="#sponsors">Sponsors</a></li>
-					<li><a href="#contact">Contact</a></li>
+					<li><a href="#contact">Contact Us</a></li>
 				</ul>
 			</nav>
 			<!-- /Navigation -->

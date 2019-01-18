@@ -1458,7 +1458,7 @@ include("header.php");
 			<div class="row">
 				<!-- section title -->
 				<div class="section-title">
-					<h3 class="title"><span>Contact</span> <span style="color: #e62b1e;">Info</span></h3>
+					<h3 class="title"><span>Contact</span> <span style="color: #e62b1e;">Details</span></h3>
 				</div>
 				<!-- /section title -->
 

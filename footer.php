@@ -9,7 +9,7 @@
 				<!-- footer logo -->
 				<div class="col-md-4 col-md-push-4">
 					<div class="footer-brand">
-						<a class="logo" href="index.html">
+						<a class="logo" href="index.php">
 							<img class="logo-img" src="./img/logo.png" alt="logo">
 						</a>
 					</div>
@@ -27,9 +27,9 @@
 
 				<!-- copyright -->
 				<div class="col-md-4 col-md-pull-8">
-					<span class="copyright"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></span>
+					<span class="copyright">
+					Copyright &copy;<script>document.write(new Date().getFullYear());</script>
+					</span>
 				</div>
 				<!-- /copyright -->
 

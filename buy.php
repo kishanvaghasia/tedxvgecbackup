@@ -67,12 +67,12 @@
 			<!-- Navigation -->
 			<nav id="nav">
 				<ul class="main-nav nav navbar-nav navbar-right">
-					<li><a href="index.php #home">Home</a></li>
-					<li><a href="index.php #about">About</a></li>
-					<li><a href="index.php #speakers">Speakers</a></li>
-					<li><a href="index.php #schedule">Schedule</a></li>
-					<li><a href="index.php #sponsors">Sponsors</a></li>
-					<li><a href="index.php #contact">Contact</a></li>
+					<li><a href="index.php#home">Home</a></li>
+					<li><a href="index.php#about">About</a></li>
+					<li><a href="index.php#speakers">Speakers</a></li>
+					<li><a href="index.php#schedule">Schedule</a></li>
+					<li><a href="index.php#sponsors">Sponsors</a></li>
+					<li><a href="index.php#contact">Contact Us</a></li>
 				</ul>
 			</nav>
 			<!-- /Navigation -->
@@ -93,6 +93,8 @@
 					</div>
 				</div>
 				<!-- /wrapper content -->
+
+
 			</div>
 			<!-- /row -->
 		</div>
@@ -100,57 +102,6 @@
 	</div>
 	<!-- /Page Header -->
 
-	<div class="section">
-		<div class="container">
-			<div class="row">
-
-			</div>
-		</div>
-	</div>
-
-	<!-- Contact -->
-	<div id="contact" class="section">
-		<!-- container -->
-		<div class="container">
-			<!-- row -->
-			<div class="row">
-				<!-- section title -->
-				<div class="section-title">
-					<h3 class="title"><span>Contact</span> <span style="color: #dd0a37;">Info</span></h3>
-				</div>
-				<!-- /section title -->
-
-				<!-- contact -->
-				<div class="col-sm-4">
-					<div class="contact">
-						<h3>Address</h3>
-						<p>2635 Simons Hollow Road, NEW YORK</p>
-					</div>
-				</div>
-				<!-- /contact -->
-
-				<!-- contact -->
-				<div class="col-sm-4">
-					<div class="contact">
-						<h3>Phone</h3>
-						<p>570-751-2415</p>
-					</div>
-				</div>
-				<!-- /contact -->
-
-				<!-- contact -->
-				<div class="col-sm-4">
-					<div class="contact">
-						<h3>Email</h3>
-						<a href="#">event@support.com</a>
-					</div>
-				</div>
-				<!-- /contact -->
-
-			</div>
-			<!-- /row -->
-		</div>
-		<!-- /container -->
 
 <?php
 include("footer.php"); 
