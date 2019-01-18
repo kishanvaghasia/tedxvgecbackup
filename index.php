@@ -4,8 +4,46 @@ include("header.php");
 
 	<!-- Home -->
 	<div id="home">
-		<!-- background image -->
-		<div class="section-bg" style="background-image:url(./img/background01.jpg)" data-stellar-background-ratio="0.5"></div>
+	<!-- HoemCarousel -->
+			<div id="myCarousel" class="carousel slide" data-ride="carousel">
+			  <!-- Indicators -->
+			  <ol class="carousel-indicators">
+			    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+			    <li data-target="#myCarousel" data-slide-to="1"></li>
+			    <li data-target="#myCarousel" data-slide-to="2"></li>
+			  </ol>
+
+			  <!-- Wrapper for slides -->
+			  <div class="carousel-inner">
+			    <div class="item active" data-stellar-background-ratio="0.5">
+			      <img style="min-height: 600px; min-width: 300px;" src="img/gc.jpg" alt="background 01">
+			    </div>
+
+			    <div class="item" data-stellar-background-ratio="0.5">
+			      <img style="min-height: 600px; min-width: 300px;" src="img/glc.jpg" alt="background 02">
+			    </div>
+
+			    <div class="item" data-stellar-background-ratio="0.5">
+			      <img style="min-height: 600px; min-width: 300px;" src="img/stevec.jpg" alt="background 03">
+			    </div>
+			  </div>
+
+			  <!-- Left and right controls -->
+			  <div class="carousel-arrow">
+			  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+			    <span class="glyphicon glyphicon-chevron-left"></span>
+			    <span class="sr-only">Previous</span>
+			  </a>
+			  <a class="right carousel-control" href="#myCarousel" data-slide="next">
+			    <span class="glyphicon glyphicon-chevron-right"></span>
+			    <span class="sr-only">Next</span>
+			  </a>
+			</div>
+			</div>
+	<!-- End HomeCarousel -->
+
+		<!-- background image 
+		<div class="section-bg" style="background-image:url(./img/background01.jpg)" data-stellar-background-ratio="0.5"></div> -->
 	
 
 		<!-- home wrapper -->
@@ -17,9 +55,9 @@ include("header.php");
 					<!-- home content -->
 					<div class="col-md-8 col-md-offset-2">
 						<div class="home-content">
-							<h2>TEDxVGEC PRESENTS: CONNECTING..THE..DOTS</h2>
+							<h2>TEDxVGEC PRESENTS: CONNECTING THE DOTS</h2>
 							<h4 class="lead"> You can't connect the dots looking forward,</br> You can only connect them looking backward </h4>
-							<a style="background-color: #e62b1e;" target="_blank" href="https://www.onlinesbi.com/sbicollect/icollecthome.htm" class="main-btn">Buy Ticket</a> 
+							<a style="background-color: #e62b1e;" href="buy.php" class="main-btn">Buy Tickets</a> 
 						</div>
 					</div>
 					<!-- /home content -->
@@ -116,324 +154,37 @@ include("header.php");
 	</div>
 	<!-- /About -->
 
-	<!-- Galery -->
+	<!-- 
 	<div id="galery">
-		<!-- container -->
 		<div class="container">
-			<!-- row -->
 			<div class="row">
-				<!-- galery owl -->
 				<div id="galery-owl" class="owl-carousel owl-theme">
-					<!-- galery item -->
+				
 					<div class="galery-item">
 						<img src="./img/gl01.jpg" alt="">
 					</div>
-					<!-- /galery item -->
-                    
-                    
-                    <!-- galery item -->
+        
 					<div class="galery-item">
 						<img src="./img/comingsoonp.jpg" alt="">
-					</div>
-					<!-- /galery item -->
-                    
-
-					<!-- galery item -->
+					</div>	
+					
 					<div class="galery-item">
 						<img src="./img/gl02.jpg" alt="">
 					</div>
-					<!-- /galery item -->
-
-					<!-- galery item -->
+					
 					<div class="galery-item">
 						<img src="./img/steve.jpg" alt="">
 					</div>
-					<!-- /galery item -->
-
-				</div>
-				<!-- /galery owl -->
-			</div>
-			<!-- /row -->
-		</div>
-		<!-- /container -->
+			
+				</div>		
+			</div>	
+		</div>	
 	</div>
-	<!-- /Galery -->
+	-->
+ 
 
 
-
-	<!-- Event Schedule -->
-	<div id="schedule" class="section">
-		<!-- container -->
-		<!-- container -->
-		<div class="container">
-			<!-- row -->
-			<div class="row">
-				<!-- section title -->
-				<div class="section-title">
-					<h3 class="title"><span>Event</span> <span style="color: #e62b1e;">Schedule</span></h3>
-				</div>
-				<!-- /section title -->
-
-				<div class="col-md-8 col-md-offset-2">
-
-					<div class="events-wrapper">
-						<!-- event -->
-						<div class="event">
-							<div class="event-day">
-								<div>
-									<span class="day">28</span>
-									<span class="year">Feb, 2019</span>
-								</div>
-							</div>
-							<div class="event-content">
-                                
-								<p class="event-time"><i class="fa fa-clock-o"></i> 9 : 30 AM - 10 : 15 AM</p>
-								<h3 class="event-title">Reporting</h3>
-								<p>After Reporting breakfast is provided</p>
-<!--								<p>By <a href="#">John Doe</a></p>-->
-							</div>
-						</div>
-						<!-- /event -->
-                        
-						<!-- event -->
-						<div class="event">
-							<div class="event-hour"></div>
-							<div class="event-content">
-                                <br><br>
-								<p class="event-time"><i class="fa fa-clock-o"></i> 10 : 15 AM - 10 : 45 AM</p>
-								<h3 class="event-title">Inauguration</h3>
-<!--
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-								<p>By <a href="#">John Doe</a></p>
--->
-							</div>
-						</div>
-						<!-- /event -->
-
-						<!-- event -->
-						<div class="event">
-							<div class="event-hour"></div>
-							<div class="event-content">
-                                <br><br>
-								<p class="event-time"><i class="fa fa-clock-o"></i> 10 : 45 AM - 11 : 15 AM</p>
-                                
-								<h3 class="event-title">Introduction and Video on TEDx</h3>
-<!--
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-								<p>By <a href="#">John Doe</a></p>
--->
-							</div>
-						</div>
-						<!-- /event -->
-
-						<!-- event -->
-						<div class="event">
-<!--
-							<div class="event-day">
-								<div>
-									<span class="day">16</span>
-									<span class="year">Feb, 2018</span>
-								</div>
-							</div>
--->                         <div class="event-hour"></div>
-							<div class="event-content">
-                                <br><br>
-								<p class="event-time"><i class="fa fa-clock-o"></i> 11 : 15 AM - 11 : 45 AM</p>
-								<h3 class="event-title">Speaker 1</h3>
-<!--
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-								<p>By <a href="#">John Doe</a></p>
--->
-							</div>
-						</div>
-						<!-- /event -->
-
-						<!-- event -->
-						<div class="event">
-                            <div class="event-day">
-								<div>
-<!--									<span class="day">16</span>-->
-									<span class="year">Afternoon</span>
-								</div>
-							</div>
-							<div class="event-content">
-                                <br>
-								<p class="event-time"><i class="fa fa-clock-o"></i> 11 : 45 AM - 12 : 15 PM</p>
-								<h3 class="event-title">Speaker 2</h3>
-<!--
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-								<p>By <a href="#">John Doe</a></p>
--->
-							</div>
-						</div>
-						<!-- /event -->
-
-						<!-- event -->
-						<div class="event">
-<!--
-							<div class="event-day">
-								<div>
-									<span class="day">17</span>
-									<span class="year">Feb, 2018</span>
-								</div>
-							</div>
--->                         
-							<div class="event-content">
-                                <div class="event-hour"></div>
-                                <br><br>
-								<p class="event-time"><i class="fa fa-clock-o"></i> 12 : 15 PM - 01 : 00 PM</p>
-								<h3 class="event-title">Lunch</h3>
-<!--
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-								<p>By <a href="#">John Doe</a></p>
--->
-							</div>
-						</div>
-						<!-- /event -->
-
-						<!-- event -->
-						<div class="event">
-							<div class="event-hour"></div>
-							<div class="event-content">
-                                <br><br>
-								<p class="event-time"><i class="fa fa-clock-o"></i> 01 : 00 PM - 01 : 30 PM</p>
-								<h3 class="event-title">Speaker 3</h3>
-<!--
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-								<p>By <a href="#">John Doe</a></p>
--->
-							</div>
-						</div>
-						<!-- /event -->
-                        
-                        <!-- event -->
-						<div class="event">
-							<div class="event-hour"></div>
-							<div class="event-content">
-                                <br><br>
-								<p class="event-time"><i class="fa fa-clock-o"></i> 01 : 30 PM - 01 : 55 PM</p>
-								<h3 class="event-title">Speaker 4</h3>
-<!--
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-								<p>By <a href="#">John Doe</a></p>
--->
-							</div>
-						</div>
-						<!-- /event -->
-                        
-                        
-                        <!-- event -->
-						<div class="event">
-							<div class="event-hour"></div>
-							<div class="event-content">
-                                <br><br>
-								<p class="event-time"><i class="fa fa-clock-o"></i> 01 : 55 PM - 02 : 20 PM</p>
-								<h3 class="event-title">Speaker 5</h3>
-<!--
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-								<p>By <a href="#">John Doe</a></p>
--->
-							</div>
-						</div>
-						<!-- /event -->
-                        
-                        <!-- event -->
-						<div class="event">
-							<div class="event-hour"></div>
-							<div class="event-content">
-                                <br><br>
-								<p class="event-time"><i class="fa fa-clock-o"></i> 02 : 20 PM - 03 : 00 PM</p>
-								<h3 class="event-title">Performance + High Tea</h3>
-<!--
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-								<p>By <a href="#">John Doe</a></p>
--->
-							</div>
-						</div>
-						<!-- /event -->
-                        
-                        <!-- event -->
-						<div class="event">
-							<div class="event-hour"></div>
-							<div class="event-content">
-                                <br><br>
-								<p class="event-time"><i class="fa fa-clock-o"></i> 03 : 00 PM - 03 : 25 PM</p>
-								<h3 class="event-title">Speaker 6</h3>
-<!--
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-								<p>By <a href="#">John Doe</a></p>
--->
-							</div>
-						</div>
-						<!-- /event -->
-                        
-                        <!-- event -->
-						<div class="event">
-							<div class="event-hour"></div>
-							<div class="event-content">
-                                <br><br>
-								<p class="event-time"><i class="fa fa-clock-o"></i> 03 : 25 PM - 03 : 50 PM</p>
-								<h3 class="event-title">Speaker 7</h3>
-<!--
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-								<p>By <a href="#">John Doe</a></p>
--->
-							</div>
-						</div>
-						<!-- /event -->
-                        
-                        <!-- event -->
-						<div class="event">
-							<div class="event-hour"></div>
-							<div class="event-content">
-                                <br><br>
-								<p class="event-time"><i class="fa fa-clock-o"></i> 03 : 50 PM - 04 : 15 PM</p>
-								<h3 class="event-title">Speaker 8</h3>
-<!--
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-								<p>By <a href="#">John Doe</a></p>
--->
-							</div>
-						</div>
-						<!-- /event -->
-                        
-                        <!-- event -->
-						<div class="event">
-                            <div class="event-day">
-								<div>
-<!--									<span class="day">16</span>-->
-									<span class="year">End</span>
-								</div>
-							</div>
-							<div class="event-content">
-                                <br>
-								<p class="event-time"><i class="fa fa-clock-o"></i> 04 : 15 PM - 04 : 30 PM</p>
-								<h3 class="event-title">Closing Ceremony</h3>
-<!--
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-								<p>By <a href="#">John Doe</a></p>
--->
-							</div>
-						</div>
-						<!-- /event -->
-                        
-                        
-					</div>
-                    
-
-					<div class="download-btn">
-						<a style="background-color: #e62b1e;" href="#" class="main-btn">Download Schedule</a>
-					</div>
-
-				</div>
-			</div>
-			<!-- /row -->
-		</div>
-		<!-- /container -->
-	</div>
-	<!-- /Event Schedule -->
-
-	<!-- Speakers -->
+<!-- Speakers -->
 	<div id="speakers" class="section">
 		<!-- container -->
 		<div class="container">
@@ -447,10 +198,10 @@ include("header.php");
                 
                 
                    <!-- speaker -->
-				<div class="col-md-4 col-sm-6">
+				<div class="col-md-3 col-sm-6">
 					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-5">
 						<div class="speaker-img">
-							<img src="./img/riya2%20-%20Copy.jpg" alt="">
+							<img src="./img/rs.jpg" alt="">
 						</div>
 						<div class="speaker-body">
 
@@ -476,7 +227,7 @@ include("header.php");
                 
 
                 <!-- speaker -->
-				<div class="col-md-4 col-sm-6">
+				<div class="col-md-3 col-sm-6">
 					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-one">
 						<div class="speaker-img">
 							<img src="./img/QMarkSmall%20-%20Copy.jpg" alt="">
@@ -555,7 +306,7 @@ include("header.php");
 
                 
                 <!-- speaker -->
-				<div class="col-md-4 col-sm-6">
+				<div class="col-md-3 col-sm-6">
 					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-one">
 						<div class="speaker-img">
 							<img src="./img/QMarkSmall%20-%20Copy.jpg" alt="">
@@ -638,7 +389,7 @@ include("header.php");
 
                 
                 <!-- speaker -->
-				<div class="col-md-4 col-sm-6">
+				<div class="col-md-3 col-sm-6">
 					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-one">
 						<div class="speaker-img">
 							<img src="./img/QMarkSmall%20-%20Copy.jpg" alt="">
@@ -746,7 +497,7 @@ include("header.php");
                 
                 
                             <!-- speaker -->
-				<div class="col-md-4 col-sm-6">
+				<div class="col-md-3 col-sm-6">
 					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-one">
 						<div class="speaker-img">
 							<img src="./img/QMarkSmall%20-%20Copy.jpg" alt="">
@@ -775,7 +526,7 @@ include("header.php");
                 
                 
                             <!-- speaker -->
-				<div class="col-md-4 col-sm-6">
+				<div class="col-md-3 col-sm-6">
 					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-one">
 						<div class="speaker-img">
 							<img src="./img/QMarkSmall%20-%20Copy.jpg" alt="">
@@ -804,7 +555,7 @@ include("header.php");
                 
                 
                             <!-- speaker -->
-				<div class="col-md-4 col-sm-6">
+				<div class="col-md-3 col-sm-6">
 					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-one">
 						<div class="speaker-img">
 							<img src="./img/QMarkSmall%20-%20Copy.jpg" alt="">
@@ -831,7 +582,7 @@ include("header.php");
                 
                 
                             <!-- speaker -->
-				<div class="col-md-4 col-sm-6">
+				<div class="col-md-3 col-sm-6">
 					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-one">
 						<div class="speaker-img">
 							<img src="./img/QMarkSmall%20-%20Copy.jpg" alt="">
@@ -1108,16 +859,17 @@ include("header.php");
 								<div class="row">
 									<div class="col-md-5">
 										<div class="speaker-modal-img">
-											<img src="./img/riya2.jpg" alt="">
+											<img src="./img/rs.jpg" alt="">
 										</div>
 									</div>
 									<div class="col-md-7">
 										<div class="speaker-modal-content">
 											<h2 class="speaker-name">Riya Sharma</h2>
                                             <br>
-											<span class="speaker-job">Photographer</span>
-                                            
-											<p><br>Riya Sharma creates beautiful artwork using photography, paint, and digital elements. She has recently been listed as an internet sensation who is followed by an estimated 26% of Americans, 21% Brazil, 7% Indonesia via Instagram.In fact, for the past two years she has been an influencer who has achieved global acclaim. Now ranked 25 in the country of Brazil. She is well known speaker for art talk shows in USA. She is a professional press card holder from the New York Institute of Photography,  is an official photographer for their Photo World Magazine. Riya Sharma is an official member of more than 70 association, magazine, international art and cultural Federation etc. She has represented India in many international Countries as a Sole Indian Photographer and won 100+ global awards such as Tokyo photo awards , Global art Awards etc.</p>
+											<span class="speaker-job">Travel Photographer & Social Media Influencer</span>
+                                            <br><br>
+											<b><i>"You don't take a photograph, you make it".</i></b><br>
+											Winner of more than 100 international awards, including the 'Art Knight' and the 'Global Art Award', member of over 70 organizations, Riya Sharma is an accomplished creative travel photographer, a social media influencer and a public speaker. Surely, the journey from Kalol to New York Institute of Photography must have been testing. Learn more about the secrets of success of the  'World Book of Record' certificate holder, Riya Sharma, exclusively at TEDx-VGEC.</p>
 
 <!--
 											<div class="speaker-website">
@@ -1337,6 +1089,281 @@ include("header.php");
 	</div>
 	<!-- /Speakers -->
 
+
+	<!-- Event Schedule -->
+	<div id="schedule" class="section">
+		<!-- container -->
+		<!-- container -->
+		<div class="container">
+			<!-- row -->
+			<div class="row">
+				<!-- section title -->
+				<div class="section-title">
+					<h3 class="title"><span>Event</span> <span style="color: #e62b1e;">Schedule</span></h3>
+				</div>
+				<!-- /section title -->
+
+				<div class="col-md-8 col-md-offset-2">
+
+					<div class="events-wrapper">
+						<!-- event -->
+						<div class="event">
+							<div class="event-day">
+								<div>
+									<span class="day">28</span>
+									<span class="year">Feb, 2019</span>
+								</div>
+							</div>
+							<div class="event-content">
+                                
+								<p class="event-time"><i class="fa fa-clock-o"></i> 9 : 30 AM - 10 : 15 AM</p>
+								<h3 class="event-title">Reporting</h3>
+								<!-- <p>After Reporting breakfast is provided</p> -->
+<!--								<p>By <a href="#">John Doe</a></p>-->
+							</div>
+						</div>
+						<!-- /event -->
+                        
+						<!-- event -->
+						<div class="event">
+							<div class="event-hour"></div>
+							<div class="event-content">
+                                <br><br>
+								<p class="event-time"><i class="fa fa-clock-o"></i> 10 : 15 AM - 10 : 45 AM</p>
+								<h3 class="event-title">Inauguration</h3>
+<!--
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+								<p>By <a href="#">John Doe</a></p>
+-->
+							</div>
+						</div>
+						<!-- /event -->
+
+						<!-- event -->
+						<div class="event">
+							<div class="event-hour"></div>
+							<div class="event-content">
+                                <br><br>
+								<p class="event-time"><i class="fa fa-clock-o"></i> 10 : 45 AM - 11 : 15 AM</p>
+                                
+								<h3 class="event-title">Introduction and Video on TEDx</h3>
+<!--
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+								<p>By <a href="#">John Doe</a></p>
+-->
+							</div>
+						</div>
+						<!-- /event -->
+
+						<!-- event -->
+						<div class="event">
+<!--
+							<div class="event-day">
+								<div>
+									<span class="day">16</span>
+									<span class="year">Feb, 2018</span>
+								</div>
+							</div>
+-->                         <div class="event-hour"></div>
+							<div class="event-content">
+                                <br><br>
+								<p class="event-time"><i class="fa fa-clock-o"></i> 11 : 15 AM - 11 : 45 AM</p>
+								<h3 class="event-title">Speaker 1</h3>
+<!--
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+								<p>By <a href="#">John Doe</a></p>
+-->
+							</div>
+						</div>
+						<!-- /event -->
+
+						<!-- event -->
+						<div class="event">
+                            <div class="event-day">
+								<div>
+<!--									<span class="day">16</span>-->
+									<span class="year">Afternoon</span>
+								</div>
+							</div>
+							<div class="event-content">
+                                <br>
+								<p class="event-time"><i class="fa fa-clock-o"></i> 11 : 45 AM - 12 : 15 PM</p>
+								<h3 class="event-title">Speaker 2</h3>
+<!--
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+								<p>By <a href="#">John Doe</a></p>
+-->
+							</div>
+						</div>
+						<!-- /event -->
+
+						<!-- event -->
+						<div class="event">
+<!--
+							<div class="event-day">
+								<div>
+									<span class="day">17</span>
+									<span class="year">Feb, 2018</span>
+								</div>
+							</div>
+-->                         
+							<div class="event-content">
+                                <div class="event-hour"></div>
+                                <br><br>
+								<p class="event-time"><i class="fa fa-clock-o"></i> 12 : 15 PM - 01 : 00 PM</p>
+								<h3 class="event-title">Lunch</h3>
+<!--
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+								<p>By <a href="#">John Doe</a></p>
+-->
+							</div>
+						</div>
+						<!-- /event -->
+
+						<!-- event -->
+						<div class="event">
+							<div class="event-hour"></div>
+							<div class="event-content">
+                                <br><br>
+								<p class="event-time"><i class="fa fa-clock-o"></i> 01 : 00 PM - 01 : 30 PM</p>
+								<h3 class="event-title">Speaker 3</h3>
+<!--
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+								<p>By <a href="#">John Doe</a></p>
+-->
+							</div>
+						</div>
+						<!-- /event -->
+                        
+                        <!-- event -->
+						<div class="event">
+							<div class="event-hour"></div>
+							<div class="event-content">
+                                <br><br>
+								<p class="event-time"><i class="fa fa-clock-o"></i> 01 : 30 PM - 01 : 55 PM</p>
+								<h3 class="event-title">Speaker 4</h3>
+<!--
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+								<p>By <a href="#">John Doe</a></p>
+-->
+							</div>
+						</div>
+						<!-- /event -->
+                        
+                        
+                        <!-- event -->
+						<div class="event">
+							<div class="event-hour"></div>
+							<div class="event-content">
+                                <br><br>
+								<p class="event-time"><i class="fa fa-clock-o"></i> 01 : 55 PM - 02 : 20 PM</p>
+								<h3 class="event-title">Speaker 5</h3>
+<!--
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+								<p>By <a href="#">John Doe</a></p>
+-->
+							</div>
+						</div>
+						<!-- /event -->
+                        
+                        <!-- event -->
+						<div class="event">
+							<div class="event-hour"></div>
+							<div class="event-content">
+                                <br><br>
+								<p class="event-time"><i class="fa fa-clock-o"></i> 02 : 20 PM - 03 : 00 PM</p>
+								<h3 class="event-title">Performance + High Tea</h3>
+<!--
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+								<p>By <a href="#">John Doe</a></p>
+-->
+							</div>
+						</div>
+						<!-- /event -->
+                        
+                        <!-- event -->
+						<div class="event">
+							<div class="event-hour"></div>
+							<div class="event-content">
+                                <br><br>
+								<p class="event-time"><i class="fa fa-clock-o"></i> 03 : 00 PM - 03 : 25 PM</p>
+								<h3 class="event-title">Speaker 6</h3>
+<!--
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+								<p>By <a href="#">John Doe</a></p>
+-->
+							</div>
+						</div>
+						<!-- /event -->
+                        
+                        <!-- event -->
+						<div class="event">
+							<div class="event-hour"></div>
+							<div class="event-content">
+                                <br><br>
+								<p class="event-time"><i class="fa fa-clock-o"></i> 03 : 25 PM - 03 : 50 PM</p>
+								<h3 class="event-title">Speaker 7</h3>
+<!--
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+								<p>By <a href="#">John Doe</a></p>
+-->
+							</div>
+						</div>
+						<!-- /event -->
+                        
+                        <!-- event -->
+						<div class="event">
+							<div class="event-hour"></div>
+							<div class="event-content">
+                                <br><br>
+								<p class="event-time"><i class="fa fa-clock-o"></i> 03 : 50 PM - 04 : 15 PM</p>
+								<h3 class="event-title">Speaker 8</h3>
+<!--
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+								<p>By <a href="#">John Doe</a></p>
+-->
+							</div>
+						</div>
+						<!-- /event -->
+                        
+                        <!-- event -->
+						<div class="event">
+                            <div class="event-day">
+								<div>
+<!--									<span class="day">16</span>-->
+									<span class="year">End</span>
+								</div>
+							</div>
+							<div class="event-content">
+                                <br>
+								<p class="event-time"><i class="fa fa-clock-o"></i> 04 : 15 PM - 04 : 30 PM</p>
+								<h3 class="event-title">Closing Ceremony</h3>
+<!--
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+								<p>By <a href="#">John Doe</a></p>
+-->
+							</div>
+						</div>
+						<!-- /event -->
+                        
+                        
+					</div>
+                    
+
+					<div class="download-btn">
+						<a style="background-color: #e62b1e;" href="#" class="main-btn">Download Schedule</a>
+					</div>
+
+				</div>
+			</div>
+			<!-- /row -->
+		</div>
+		<!-- /container -->
+	</div>
+	<!-- /Event Schedule -->
+
+	
+
 	<!-- Sponsors -->
 	<div id="sponsors" class="section">
 		<!-- container -->
@@ -1351,7 +1378,7 @@ include("header.php");
 
 				<!-- sponsor -->
 				<div class="col-md-3 col-sm-4 col-xs-6">
-					<a href="#" class="sponsor">
+					<a href="https://instagram.com/ahmedabad_live?utm_source=ig_profile_share&igshid=1ngkfdjq2ae6d" class="sponsor">
 						<img src="./img/ahlive.jpg" alt="">
 					</a>
 				</div>
@@ -1359,7 +1386,7 @@ include("header.php");
 
 				<!-- sponsor -->
 				<div class="col-md-3 col-sm-4 col-xs-6">
-					<a href="#" class="sponsor">
+					<a href="https://www.justdial.com/Ahmedabad/Gozel-Salons-Nr-Sakar-School-Chandkheda/079PXX79-XX79-170508165055-G6N6_BZDET" class="sponsor">
 						<img src="./img/gozel.jpg" alt="">
 					</a>
 				</div>
@@ -1367,7 +1394,7 @@ include("header.php");
 
 				<!-- sponsor -->
 				<div class="col-md-3 col-sm-4 col-xs-6">
-					<a href="#" class="sponsor">
+					<a href="https://www.endeavorcareers.com/" class="sponsor">
 						<img src="./img/endeavor.jpg" alt="">
 					</a>
 				</div>
@@ -1375,11 +1402,20 @@ include("header.php");
 
 				<!-- sponsor -->
 				<div class="col-md-3 col-sm-4 col-xs-6">
-					<a href="#" class="sponsor">
+					<a href="http://www.karkhanawala.in/" class="sponsor">
 						<img src="./img/karkhana.jpg" alt="">
 					</a>
 				</div>
 				<!-- /sponsor -->
+
+				<!-- sponsor -->
+				<div class="col-md-3 col-sm-4 col-xs-6">
+					<a href="https://www.justdial.com/Ahmedabad/Sunshine-Photo-Print-Pvt-Ltd-New-C-G-Road-Chandkheda/079PXX79-XX79-150221175106-V2G1_BZDET" class="sponsor">
+						<img src="./img/sunshine.jpg" alt="">
+					</a>
+				</div>
+				<!-- /sponsor -->
+
 
 			</div>
 			<!-- /row -->
@@ -1404,6 +1440,7 @@ include("header.php");
 						<h2>Get Ticket Now!</h2>
 						<p class="lead">Grab Your Tickets Right Now Before Someone Else Does!!</p>
 						<a style="background-color: #e62b1e;" href="https://www.onlinesbi.com/sbicollect/icollecthome.htm" class="main-btn">Buy Ticket</a>
+						<a style="background-color: #e62b1e;" href="http://www.tedxvgec.com/docs/Howtopay.pdf" class="main-btn">How To Pay?</a>
 					</div>
 				</div>
 				<!-- /cta content -->
@@ -1427,7 +1464,7 @@ include("header.php");
 				<!-- /section title -->
 
 				<!-- contact -->
-				<div class="col-sm-4">
+				<div class="col-sm-3">
 					<div class="contact">
 						<h3>Address</h3>
 						<p>Vishwakarma Government Engineering College, Nr. Visat Three Roads, Sabarmati-Koba Highway, Chandkheda, Ahmedabad, Gujarat 382424</p>
@@ -1436,7 +1473,7 @@ include("header.php");
 				<!-- /contact -->
 
 				<!-- contact -->
-				<div class="col-sm-4">
+				<div class="col-sm-3">
 					<div class="contact">
 						<h3>Phone</h3>
 						<a href="tel:+91 7490832150">+91 7490832150</p>
@@ -1445,10 +1482,20 @@ include("header.php");
 				<!-- /contact -->
 
 				<!-- contact -->
-				<div class="col-sm-4">
+				<div class="col-sm-3">
 					<div class="contact">
 						<h3>Email</h3>
 						<a href="mailto:tedxvgce@vgecg.ac.in">tedxvgec@vgecg.ac.in</a>
+					</div>
+				</div>
+
+				<div class="col-sm-3">
+					<div class="contact">
+						<h3>Social Media</h3>
+				<div class="contactt-social">
+						<a href="https://www.facebook.com/tedxvgec/"><i class="fa fa-facebook"></i></a>
+						<a href="https://www.instagram.com/explore/locations/1782640915117732/tedx-vgec?hl=en"><i class="fa fa-instagram"></i></a>
+					</div>
 					</div>
 				</div>
 				<!-- /contact -->
