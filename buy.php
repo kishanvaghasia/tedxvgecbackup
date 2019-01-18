@@ -87,14 +87,106 @@
 			<!-- row -->
 			<div class="row">
 				<!-- wrapper content -->
-				<div class="col-md-12">
+				<div class="col-md-8 col-md-offset-2">
 					<div class="page-wrapper-content">
 						<h1>Steps to buy ticket</h1>
 					</div>
 				</div>
-				<!-- /wrapper content -->
+				<div class="col-md-12">
+					<div class="page-wrapper-content">
+                        <br><br><p style="font-size:20px;">Step 1: <b>Accept</b> the terms and conditions and <b>click on proceed</b>
 
+                           <br> <a style="font-size:15px;" href="https://www.onlinesbi.com/sbicollect/icollecthome.htm">https://www.onlinesbi.com/sbicollect/icollecthome.htm</a></p>
+						<img src="img/sc%201.jpg" style="height:450px;">
+					</div>
+				</div>
+                
+                <div class="col-md-12">
+					<div class="page-wrapper-content">
+                        <br><br><br>
+                        
+                        <div class="form-group col-12">
+                                <hr style="height:1px;width:900px;border:none;color:#333;background-color:#333;">
+                        </div>
+                        
+                        
+                        <br><br><p style="font-size:20px;">Step 2:&nbsp;&nbsp;Select <b>Gujarat</b> as State of Corporate / Institution 
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>Select <b>Educational</b> Institution as type of Corporate / Institution 
 
+                           <br> <a style="font-size:15px;" href="https://www.onlinesbi.com/sbicollect/sbclink/displayinstitutiontype.htm">https://www.onlinesbi.com/sbicollect/sbclink/displayinstitutiontype.htm</a></p>
+						<img src="img/sc%202.jpg" style="height:450px;">
+					</div>
+				</div>
+                
+                
+                <div class="col-md-12">
+					<div class="page-wrapper-content">
+                        <br><br><br>
+                        
+                        <div class="form-group col-12">
+                                <hr style="height:1px;width:900px;border:none;color:#333;background-color:#333;">
+                        </div>
+                        
+                        
+                        <br><br><p style="font-size:20px;">Step 3:&nbsp;&nbsp;Select <b>Vishwakarma Government Engineering College</b> as Educational Institutions Name 
+                        
+
+                           <br> <a style="font-size:15px;" href="https://www.onlinesbi.com/sbicollect/payment/listinstitution.htm">https://www.onlinesbi.com/sbicollect/payment/listinstitution.htm</a></p>
+						<img src="img/sc%203.jpg" style="height:450px;">
+					</div>
+				</div>
+                
+                 <div class="col-md-12">
+					<div class="page-wrapper-content">
+                        <br><br><br>
+                        
+                        <div class="form-group col-12">
+                                <hr style="height:1px;width:900px;border:none;color:#333;background-color:#333;">
+                        </div>
+                        
+                        
+                        <br><br><p style="font-size:20px;">Step 4:&nbsp;&nbsp;Select <b>Workshop-Conference-Seminar-FDP-STTP Fees</b> as Payment Category 
+                        
+
+                           <br> <a style="font-size:15px;" href="https://www.onlinesbi.com/sbicollect/payment/listcategory.htm">https://www.onlinesbi.com/sbicollect/payment/listcategory.htm</a></p>
+						<img src="img/sc%205.jpg" style="height:450px;">
+					</div>
+				</div>
+                
+                <div class="col-md-12">
+					<div class="page-wrapper-content">
+                        <br><br><br>
+                        
+                        <div class="form-group col-12">
+                                <hr style="height:1px;width:900px;border:none;color:#333;background-color:#333;">
+                        </div>
+                        
+                        
+                        <br><br><p style="font-size:20px;">Step 5:&nbsp;&nbsp;Fill up details in the form and click on submit, after that it will redirect you to payment gateway.
+                       <br> Title of Work Shop: <b>tedxvgec</b>
+                        <br>Organizing Department: <b>vgec</b>
+                    <br> Start Date and End Date as: <b>28/02/2019</b>
+                        <br>Fees as per Brochure: ###
+
+                           <br> <a style="font-size:15px;" href="https://www.onlinesbi.com/sbicollect/payment/showpaymentdetails.htm">https://www.onlinesbi.com/sbicollect/payment/showpaymentdetails.htm</a></p>
+						<img src="img/sc%206.jpg" style="height:950px;">
+					</div>
+                    
+                    <div class="page-wrapper-content">
+                        <br><br><br>
+                        	<a style="background-color: #e62b1e;" href="https://www.onlinesbi.com/sbicollect/icollecthome.htm" target="_blank" class="main-btn">Buy Now</a>
+					</div>
+                    
+                    
+                    <div class="page-wrapper-content">
+                        <br><br><br>
+                        <p>For any Queries Contact us on&nbsp;<b><a href="tel:+91 7490832150">  +91 7490832150</b></p>
+					</div>
+                    
+                    
+                    
+				</div>
+                
 			</div>
 			<!-- /row -->
 		</div>

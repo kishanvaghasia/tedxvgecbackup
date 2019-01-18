@@ -1115,7 +1115,7 @@ include("header.php");
 								</div>
 							</div>
 							<div class="event-content">
-                                
+                                <br>
 								<p class="event-time"><i class="fa fa-clock-o"></i> 9 : 30 AM - 10 : 15 AM</p>
 								<h3 class="event-title">Reporting</h3>
 								<!-- <p>After Reporting breakfast is provided</p> -->
@@ -1437,9 +1437,9 @@ include("header.php");
 				<!-- cta content -->
 				<div class="col-md-8 col-md-offset-2">
 					<div class="cta-content text-center">
-						<h2>Get Ticket Now!</h2>
+						<h2>Get Your Tickets</h2>
 						<p class="lead">Grab Your Tickets Right Now Before Someone Else Does!!</p>
-						<a style="background-color: #e62b1e;" href="buy.php" class="main-btn">Buy Ticket</a>
+						<a style="background-color: #e62b1e;" href="buy.php" class="main-btn">Buy Tickets</a>
 					</div>
 				</div>
 				<!-- /cta content -->

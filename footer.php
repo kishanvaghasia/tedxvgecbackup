@@ -27,9 +27,7 @@
 
 				<!-- copyright -->
 				<div class="col-md-4 col-md-pull-8">
-					<span class="copyright">
-					Copyright &copy;<script>document.write(new Date().getFullYear());</script>
-					</span>
+					<a href="http://www.vgecg.ac.in/">vgecg.ac.in</a>
 				</div>
 				<!-- /copyright -->
 
