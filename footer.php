@@ -50,7 +50,12 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script>
 	<script src="js/google-map.js"></script>
 	<script src="js/preloader.js"></script>
 	<script src="js/main.js"></script>
-
+	<script type="text/javascript">
+		$('.navbar-nav>li>a').on('click',function(){
+			$('.navbar-collapse').collapse('hide');
+		});
+	</script>
+	  
 </body>
 
 </html>

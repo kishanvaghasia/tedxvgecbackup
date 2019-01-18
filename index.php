@@ -1439,8 +1439,7 @@ include("header.php");
 					<div class="cta-content text-center">
 						<h2>Get Ticket Now!</h2>
 						<p class="lead">Grab Your Tickets Right Now Before Someone Else Does!!</p>
-						<a style="background-color: #e62b1e;" href="https://www.onlinesbi.com/sbicollect/icollecthome.htm" class="main-btn">Buy Ticket</a>
-						<a style="background-color: #e62b1e;" href="http://www.tedxvgec.com/docs/Howtopay.pdf" class="main-btn">How To Pay?</a>
+						<a style="background-color: #e62b1e;" href="buy.php" class="main-btn">Buy Ticket</a>
 					</div>
 				</div>
 				<!-- /cta content -->
@@ -1512,6 +1511,5 @@ include("header.php");
 	<!-- /Contact -->
 
 <?php
-
 include("footer.php"); 
 ?>
