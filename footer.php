@@ -46,7 +46,6 @@
 	<script src="js/jquery.stellar.min.js"></script>
 	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD9qRKq5iCWYurW_6S0WL-3qW8Os8mFj9Y&callback=initMap"></script>
 	<script src="js/google-map.js"></script>
-	<script src="js/preloader.js"></script>
 	<script src="js/main.js"></script>
 	<script type="text/javascript">
 		$('.navbar-nav>li>a').on('click',function(){

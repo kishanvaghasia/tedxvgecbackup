@@ -10,7 +10,7 @@ include("header.php");
 			  <ol class="carousel-indicators">
 			    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
 			    <li data-target="#myCarousel" data-slide-to="1"></li>
-			    <li data-target="#myCarousel" data-slide-to="2"></li>
+			    <!-- <li data-target="#myCarousel" data-slide-to="2"></li> -->
 			  </ol>
 
 			  <!-- Wrapper for slides -->
@@ -23,22 +23,23 @@ include("header.php");
 			      <img style="min-height: 600px; min-width: 300px;" src="img/glc.jpg" alt="background 02">
 			    </div>
 
-			    <div class="item" data-stellar-background-ratio="0.5">
+			   <!--  <div class="item" data-stellar-background-ratio="0.5">
 			      <img style="min-height: 600px; min-width: 300px;" src="img/stevec.jpg" alt="background 03">
-			    </div>
+			    </div> -->
 			  </div>
-
-			  <!-- Left and right controls -->
+			  	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
+			  <!-- Left and right controls 
 			  <div class="carousel-arrow">
 			  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
 			    <span class="glyphicon glyphicon-chevron-left"></span>
 			    <span class="sr-only">Previous</span>
 			  </a>
+
 			  <a class="right carousel-control" href="#myCarousel" data-slide="next">
-			    <span class="glyphicon glyphicon-chevron-right"></span>
+			    <span class="glyphicon glyphicon-chevron-left"><i class="fas fa-chevron-right"></i></span>
 			    <span class="sr-only">Next</span>
 			  </a>
-			</div>
+			</div>-->
 			</div>
 	<!-- End HomeCarousel -->
 
@@ -57,7 +58,7 @@ include("header.php");
 						<div class="home-content">
 							<h2>TEDxVGEC PRESENTS: CONNECTING THE DOTS</h2>
 							<h4 class="lead"> You can't connect the dots looking forward,</br> You can only connect them looking backward </h4>
-							<a style="background-color: #e62b1e;" href="buy.php" class="main-btn">Buy Tickets</a> 
+							<a target="_blank" style="background-color: #e62b1e;" href="buy.php" class="main-btn">Buy Tickets</a> 
 						</div>
 					</div>
 					<!-- /home content -->
@@ -1439,7 +1440,7 @@ include("header.php");
 					<div class="cta-content text-center">
 						<h2>Get Your Tickets</h2>
 						<p class="lead">Grab Your Tickets Right Now Before Someone Else Does!!</p>
-						<a style="background-color: #e62b1e;" href="buy.php" class="main-btn">Buy Tickets</a>
+						<a target="_blank" style="background-color: #e62b1e;" href="buy.php" class="main-btn">Buy Tickets</a>
 					</div>
 				</div>
 				<!-- /cta content -->

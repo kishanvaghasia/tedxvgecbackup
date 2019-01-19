@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
 	<title>TEDxVGEC</title>
@@ -24,7 +24,7 @@
 
 	<!-- Custom stlylesheet -->
 	<link type="text/css" rel="stylesheet" href="css/style.css" />
-	<link type="text/css" rel="stylesheet" href="css/preloader.css" />
+	
 
 	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -94,10 +94,9 @@
 				</div>
 				<div class="col-md-12">
 					<div class="page-wrapper-content">
-                        <br><br><p style="font-size:20px;">Step 1: <b>Accept</b> the terms and conditions and <b>click on proceed</b>
-
-                           <br> <a style="font-size:15px;" href="https://www.onlinesbi.com/sbicollect/icollecthome.htm">https://www.onlinesbi.com/sbicollect/icollecthome.htm</a></p>
-						<img src="img/sc%201.jpg" style="height:450px;">
+                        <br><br><p class="" style="font-size:20px;">Step 1: <b>Accept</b> the terms and conditions and <b>click on proceed</b>
+                        <br> <a style="text-align:center;font-size:15px;" href="https://www.onlinesbi.com/sbicollect/icollecthome.htm">https://www.onlinesbi.com/ sbicollect/ icollecthome.htm</a></p>
+						<img src="img/sc%201.jpg" style="height:0%; width:85%;">
 					</div>
 				</div>
                 
@@ -113,8 +112,8 @@
                         <br><br><p style="font-size:20px;">Step 2:&nbsp;&nbsp;Select <b>Gujarat</b> as State of Corporate / Institution 
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>Select <b>Educational</b> Institution as type of Corporate / Institution 
 
-                           <br> <a style="font-size:15px;" href="https://www.onlinesbi.com/sbicollect/sbclink/displayinstitutiontype.htm">https://www.onlinesbi.com/sbicollect/sbclink/displayinstitutiontype.htm</a></p>
-						<img src="img/sc%202.jpg" style="height:450px;">
+                           <br> <a style="font-size:15px;" href="https://www.onlinesbi.com/sbicollect/sbclink/displayinstitutiontype.htm">https://www.onlinesbi.com/ sbicollect/sbclink/  displayinstitutiontype.htm</a></p>
+						<img src="img/sc%202.jpg" style="height:0%; width:85%;">
 					</div>
 				</div>
                 
@@ -131,8 +130,8 @@
                         <br><br><p style="font-size:20px;">Step 3:&nbsp;&nbsp;Select <b>Vishwakarma Government Engineering College</b> as Educational Institutions Name 
                         
 
-                           <br> <a style="font-size:15px;" href="https://www.onlinesbi.com/sbicollect/payment/listinstitution.htm">https://www.onlinesbi.com/sbicollect/payment/listinstitution.htm</a></p>
-						<img src="img/sc%203.jpg" style="height:450px;">
+                           <br> <a style="font-size:15px;" href="https://www.onlinesbi.com/sbicollect/payment/listinstitution.htm">https://www.onlinesbi.com/ sbicollect/payment/ listinstitution.htm</a></p>
+						<img src="img/sc%203.jpg" style="height:0%; width:85%;">
 					</div>
 				</div>
                 
@@ -148,8 +147,8 @@
                         <br><br><p style="font-size:20px;">Step 4:&nbsp;&nbsp;Select <b>Workshop-Conference-Seminar-FDP-STTP Fees</b> as Payment Category 
                         
 
-                           <br> <a style="font-size:15px;" href="https://www.onlinesbi.com/sbicollect/payment/listcategory.htm">https://www.onlinesbi.com/sbicollect/payment/listcategory.htm</a></p>
-						<img src="img/sc%205.jpg" style="height:450px;">
+                           <br> <a style="font-size:15px;" href="https://www.onlinesbi.com/sbicollect/payment/listcategory.htm">https://www.onlinesbi.com/ sbicollect/payment/ listcategory.htm</a></p>
+						<img src="img/sc%205.jpg" style="height:0%; width:85%;">
 					</div>
 				</div>
                 
@@ -168,13 +167,13 @@
                     <br> Start Date and End Date as: <b>28/02/2019</b>
                         <br>Fees as per Brochure: ###
 
-                           <br> <a style="font-size:15px;" href="https://www.onlinesbi.com/sbicollect/payment/showpaymentdetails.htm">https://www.onlinesbi.com/sbicollect/payment/showpaymentdetails.htm</a></p>
-						<img src="img/sc%206.jpg" style="height:950px;">
+                           <br> <a style="font-size:15px;" href="https://www.onlinesbi.com/sbicollect/payment/showpaymentdetails.htm">https://www.onlinesbi.com/ sbicollect/payment/ showpaymentdetails.htm</a></p>
+						<img src="img/sc%206.jpg" style="height:0%; width:85%;">
 					</div>
                     
                     <div class="page-wrapper-content">
                         <br><br><br>
-                        	<a style="background-color: #e62b1e;" href="https://www.onlinesbi.com/sbicollect/icollecthome.htm" target="_blank" class="main-btn">Buy Now</a>
+                        	<a style="background-color: #e62b1e;" href="https://www.onlinesbi.com/ sbicollect/ icollecthome.htm" target="_blank" class="main-btn">Buy Now</a>
 					</div>
                     
                     
