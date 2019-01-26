@@ -12,6 +12,7 @@
 		$('.main-nav').toggleClass('open');
 	});
 
+
 	// Fixed nav
 	$(window).on('scroll', function() {
 		var wScroll = $(this).scrollTop();
@@ -21,6 +22,7 @@
 	// Smooth scroll
 	$(".main-nav a[href^='#']").on('click', function(e) {
 		e.preventDefault();
+		$('.main-nav').toggleClass('open');
 		var hash = this.hash;
 		$('html, body').animate({
 			scrollTop: $(this.hash).offset().top

@@ -27,7 +27,9 @@
 
 				<!-- copyright -->
 				<div class="col-md-4 col-md-pull-8">
-					<a href="http://www.vgecg.ac.in/">vgecg.ac.in</a>
+					<div class="footer-brand">
+					<a target="_blank" href="http://www.vgecg.ac.in/"><img height="12%" width="12%" class="logo-alt-img" src="./img/VGEC_logotrans.png" alt="logo"></a>
+					</div>			
 				</div>
 				<!-- /copyright -->
 
@@ -44,14 +46,7 @@
 	<script src="js/jquery.waypoints.min.js"></script>
 	<script src="js/owl.carousel.min.js"></script>
 	<script src="js/jquery.stellar.min.js"></script>
-	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD9qRKq5iCWYurW_6S0WL-3qW8Os8mFj9Y&callback=initMap"></script>
-	<script src="js/google-map.js"></script>
 	<script src="js/main.js"></script>
-	<script type="text/javascript">
-		$('.navbar-nav>li>a').on('click',function(){
-			$('.navbar-collapse').collapse('hide');
-		});
-	</script>
 	  
 </body>
 

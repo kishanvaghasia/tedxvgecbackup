@@ -27,7 +27,6 @@ include("header.php");
 			      <img style="min-height: 600px; min-width: 300px;" src="img/stevec.jpg" alt="background 03">
 			    </div> -->
 			  </div>
-			  	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
 			  <!-- Left and right controls 
 			  <div class="carousel-arrow">
 			  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
@@ -58,7 +57,7 @@ include("header.php");
 						<div class="home-content">
 							<h2>TEDxVGEC PRESENTS: CONNECTING THE DOTS</h2>
 							<h4 class="lead"> You can't connect the dots looking forward,</br> You can only connect them looking backward </h4>
-							<a target="_blank" style="background-color: #e62b1e;" href="buy.php" class="main-btn">Buy Tickets</a> 
+							<a target="_blank" style="background-color: #e62b1e;" href="#" class="main-btn">Buy Tickets</a> 
 						</div>
 					</div>
 					<!-- /home content -->
@@ -197,56 +196,26 @@ include("header.php");
 				</div>
 				<!-- section title -->
                 
-                
-                   <!-- speaker -->
+                <!-- Arun speaker -->
 				<div class="col-md-3 col-sm-6">
-					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-5">
+					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-1">
 						<div class="speaker-img">
-							<img src="./img/rs.jpg" alt="">
+							<img src="./img/ak.jpeg" alt="">
 						</div>
 						<div class="speaker-body">
 
+
 							<div class="speaker-social">
-								<a href="#"><i class="fa fa-facebook"></i></a>
-								<a href="#"><i class="fa fa-twitter"></i></a>
-								<a href="#"><i class="fa fa-instagram"></i></a>
-								<a href="#"><i class="fa fa fa-linkedin"></i></a>
+								<a target="_blank" href="https://www.facebook.com/inuvashan/"><i class="fa fa-facebook"></i></a>
+								<!-- <a target="_blank" href="#"><i class="fa fa-twitter"></i></a>
+								<a target="_blank" href="#"><i class="fa fa-instagram"></i></a>
+								<a target="_blank" href="#"><i class="fa fa fa-linkedin"></i></a> -->
 							</div>
+
 
 							<div class="speaker-content">
-								<h2>Riya Sharma</h2>
-								<span>Photographer</span>
-							</div>
-						</div>
-					</div>
-				</div>
-				<!-- /speaker -->
-                
-                
-                
-                
-                
-
-                <!-- speaker -->
-				<div class="col-md-3 col-sm-6">
-					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-one">
-						<div class="speaker-img">
-							<img src="./img/QMarkSmall%20-%20Copy.jpg" alt="">
-						</div>
-						<div class="speaker-body">
-
-<!--
-							<div class="speaker-social">
-								<a href="#"><i class="fa fa-facebook"></i></a>
-								<a href="#"><i class="fa fa-twitter"></i></a>
-								<a href="#"><i class="fa fa-instagram"></i></a>
-								<a href="#"><i class="fa fa fa-linkedin"></i></a>
-							</div>
--->
-
-							<div class="speaker-content">
-								<h2>Coming Soon</h2>
-								<span></span>
+								<h3>Arun Bajaj</h3>
+								<span>Needleman</span>
 							</div>
 						</div>
 					</div>
@@ -306,198 +275,92 @@ include("header.php");
 				-->
 
                 
-                <!-- speaker -->
+                <!-- Anand speaker -->
 				<div class="col-md-3 col-sm-6">
-					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-one">
-						<div class="speaker-img">
-							<img src="./img/QMarkSmall%20-%20Copy.jpg" alt="">
-						</div>
-						<div class="speaker-body">
-
-<!--
-							<div class="speaker-social">
-								<a href="#"><i class="fa fa-facebook"></i></a>
-								<a href="#"><i class="fa fa-twitter"></i></a>
-								<a href="#"><i class="fa fa-instagram"></i></a>
-								<a href="#"><i class="fa fa fa-linkedin"></i></a>
-							</div>
--->
-
-							<div class="speaker-content">
-								<h2>Coming Soon</h2>
-								<span></span>
-							</div>
-						</div>
-					</div>
-				</div>
-				<!-- /speaker -->
-                
-                
-                
-                
-                
-                
-                
-				<!-- speaker -->
-<!--
-				<div class="col-md-4 col-sm-6">
 					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-3">
 						<div class="speaker-img">
-							<img src="./img/anand%20-%20Copy.jpg" alt="">
+							<img src="./img/abb.jpeg" alt="">
 						</div>
 						<div class="speaker-body">
 
-							<div class="speaker-social">
-								<a href="#"><i class="fa fa-facebook"></i></a>
-								<a href="#"><i class="fa fa-twitter"></i></a>
-								<a href="#"><i class="fa fa-instagram"></i></a>
-								<a href="#"><i class="fa fa fa-linkedin"></i></a>
-							</div>
+											<div class="speaker-social">
+							
+												<a target="_blank" href="https://www.facebook.com/anand1971"><i class="fa fa-facebook"></i></a>
+												<a target="_blank" href="https://twitter.com/anand_bhatnagar"><i class="fa fa-twitter"></i></a>
+												<!-- <a target="_blank" href=""><i class="fa fa-instagram"></i></a> -->
+												<a target="_blank" href="https://in.linkedin.com/in/anand-bhatnagar-15804113"><i class="fa fa fa-linkedin"></i></a>
+											</div>
 
 							<div class="speaker-content">
-								<h2>Anand Bhatnagar</h2>
-								<span>Asst. Vice President Reliance</span>
+								<h3>Anand Bhatnagar</h3>
+								<span>Asst. Vice-President of Reliance</span>
 							</div>
 						</div>
 					</div>
 				</div>
--->
 				<!-- /speaker -->
                 
-                <!-- 
-				<div class="col-md-4 col-sm-6">
-					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-4">
-						<div class="speaker-img">
-							<img src="./img/tirth.jpg" alt="">
-						</div>
-						<div class="speaker-body">
-
-							<div class="speaker-social">
-								<a href="#"><i class="fa fa-facebook"></i></a>
-								<a href="#"><i class="fa fa-twitter"></i></a>
-								<a href="#"><i class="fa fa-instagram"></i></a>
-								<a href="#"><i class="fa fa fa-linkedin"></i></a>
-							</div>
-
-							<div class="speaker-content">
-								<h2>Tirth Mehta</h2>
-								<span>SportsPerson</span>
-							</div>
-						</div>
-					</div>
-				</div>
-				 -->
 
                 
                 <!-- speaker -->
 				<div class="col-md-3 col-sm-6">
-					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-one">
-						<div class="speaker-img">
-							<img src="./img/QMarkSmall%20-%20Copy.jpg" alt="">
-						</div>
-						<div class="speaker-body">
-
-<!--
-							<div class="speaker-social">
-								<a href="#"><i class="fa fa-facebook"></i></a>
-								<a href="#"><i class="fa fa-twitter"></i></a>
-								<a href="#"><i class="fa fa-instagram"></i></a>
-								<a href="#"><i class="fa fa fa-linkedin"></i></a>
-							</div>
--->
-
-							<div class="speaker-content">
-								<h2>Coming Soon</h2>
-								<span></span>
-							</div>
-						</div>
-					</div>
-				</div>
-				<!-- /speaker -->
-                
-                
-                
-                
-                
-             
-                
-                <!-- speaker -->
-<!--
-				<div class="col-md-4 col-sm-6">
 					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-6">
 						<div class="speaker-img">
-							<img src="./img/mukesh%20-%20Copy.jpg" alt="">
+							<img src="./img/aparna.jpeg" alt="">
 						</div>
 						<div class="speaker-body">
 
+
 							<div class="speaker-social">
-								<a href="#"><i class="fa fa-facebook"></i></a>
-								<a href="#"><i class="fa fa-twitter"></i></a>
-								<a href="#"><i class="fa fa-instagram"></i></a>
-								<a href="#"><i class="fa fa fa-linkedin"></i></a>
+								<a target="_blank" href="https://www.facebook.com/aparnasamuel?ref=br_rs"><i class="fa fa-facebook"></i></a>
+								<a target="_blank" href="https://twitter.com/parentingthtwks?lang=en" ><i class="fa fa-twitter"></i></a>
+								<!-- <a href="#"><i class="fa fa-instagram"></i></a> -->
+								<a target="_blank" href="https://in.linkedin.com/in/aparnasamuelbalasundaram"><i class="fa fa fa-linkedin"></i></a>
 							</div>
 
+
 							<div class="speaker-content">
-								<h2>Mukesh Bavishi</h2>
-								<span>Gynec Cance Surgeon,Fertility Specialist, Cosmetic Surgeon </span>
+								<h4>Aparna Balasundaram</h4>
+								<span>Author & USA-Licensed Psychotherapist</span>
 							</div>
 						</div>
 					</div>
 				</div>
--->
 				<!-- /speaker -->
+                
 
-				<!--                 
-				<div class="col-md-4 col-sm-6">
-					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-7">
+                
+               <!-- Riya speaker -->
+				<div class="col-md-3 col-sm-6">
+					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-five">
 						<div class="speaker-img">
-							<img src="./img/anil%20-%20Copy.jpg" alt="">
+							<img src="./img/QMarkSmall%20-%20Copy.jpg" alt="">
 						</div>
 						<div class="speaker-body">
-
+<!--
 							<div class="speaker-social">
-								<a href="#"><i class="fa fa-facebook"></i></a>
-								<a href="#"><i class="fa fa-twitter"></i></a>
-								<a href="#"><i class="fa fa-instagram"></i></a>
-								<a href="#"><i class="fa fa fa-linkedin"></i></a>
-							</div>
+								<a target="_blank" href="https://www.facebook.com/riyasharmaphotographer/">
+									<i class="fa fa-facebook"></i>
+								</a>
+								<a target="_blank" href="https://twitter.com/TheRiyaSharma">
+									<i class="fa fa-twitter"></i>
+								</a>
+								<a target="_blank" href="https://www.instagram.com/theriyasharmaofficial/">
+									<i class="fa fa-instagram"></i>
+								</a>
+								<a target="_blank" href="https://www.linkedin.com/in/riyasharmaphotographer/">
+									<i class="fa fa fa-linkedin"></i>
+								</a> 
+							</div> -->
 
 							<div class="speaker-content">
-								<h2>Anil Kumar Gupta</h2>
-								<span>Founder of Honey Bee Network and Professor at IIM Ahmedabad</span>
+								<h3>Coming Soon</h3>
+								<span></span>
 							</div>
 						</div>
 					</div>
-				</div>
-				
-
-                 
-				<div class="col-md-4 col-sm-6">
-					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-8">
-						<div class="speaker-img">
-							<img src="./img/krishna%20-%20Copy.jpg" alt="">
-						</div>
-						<div class="speaker-body">
-
-							<div class="speaker-social">
-								<a href="#"><i class="fa fa-facebook"></i></a>
-								<a href="#"><i class="fa fa-twitter"></i></a>
-								<a href="#"><i class="fa fa-instagram"></i></a>
-								<a href="#"><i class="fa fa fa-linkedin"></i></a>
-							</div>
-
-							<div class="speaker-content">
-								<h2>Prof. K. THYAGARAJAN</h2>
-								<span>Prof.  AT IIT DELHI , PHYSICS</span>
-							</div>
-						</div>
-					</div>
-				</div>
-				-->
-
-                
-                
-                            <!-- speaker -->
+				</div>  
+              <!-- speaker -->
 				<div class="col-md-3 col-sm-6">
 					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-one">
 						<div class="speaker-img">
@@ -515,7 +378,36 @@ include("header.php");
 -->
 
 							<div class="speaker-content">
-								<h2>Coming Soon</h2>
+								<h3>Coming Soon</h3>
+								<span></span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- /speaker -->
+                
+                
+                
+                
+	  <!-- speaker -->
+				<div class="col-md-3 col-sm-6">
+					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-one">
+						<div class="speaker-img">
+							<img src="./img/QMarkSmall%20-%20Copy.jpg" alt="">
+						</div>
+						<div class="speaker-body">
+
+<!--
+							<div class="speaker-social">
+								<a href="#"><i class="fa fa-facebook"></i></a>
+								<a href="#"><i class="fa fa-twitter"></i></a>
+								<a href="#"><i class="fa fa-instagram"></i></a>
+								<a href="#"><i class="fa fa fa-linkedin"></i></a>
+							</div>
+-->
+
+							<div class="speaker-content">
+								<h3>Coming Soon</h3>
 								<span></span>
 							</div>
 						</div>
@@ -544,36 +436,7 @@ include("header.php");
 -->
 
 							<div class="speaker-content">
-								<h2>Coming Soon</h2>
-								<span></span>
-							</div>
-						</div>
-					</div>
-				</div>
-				<!-- /speaker -->
-                
-                
-                
-                
-                            <!-- speaker -->
-				<div class="col-md-3 col-sm-6">
-					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-one">
-						<div class="speaker-img">
-							<img src="./img/QMarkSmall%20-%20Copy.jpg" alt="">
-						</div>
-						<div class="speaker-body">
-
-<!--
-							<div class="speaker-social">
-								<a href="#"><i class="fa fa-facebook"></i></a>
-								<a href="#"><i class="fa fa-twitter"></i></a>
-								<a href="#"><i class="fa fa-instagram"></i></a>
-								<a href="#"><i class="fa fa fa-linkedin"></i></a>
-							</div>
--->
-
-							<div class="speaker-content">
-								<h2>Coming Soon</h2>
+								<h3>Coming Soon</h3>
 								<span></span>
 							</div>
 						</div>
@@ -600,7 +463,7 @@ include("header.php");
 -->
 
 							<div class="speaker-content">
-								<h2>Coming Soon</h2>
+								<h3>Coming Soon</h3>
 								<span></span>
 							</div>
 						</div>
@@ -622,32 +485,34 @@ include("header.php");
 								<div class="row">
 									<div class="col-md-5">
 										<div class="speaker-modal-img">
-											<img src="./img/arunkumar.jpg" alt="">
+											<img src="./img/ak.jpeg" alt="">
 										</div>
 									</div>
 									<div class="col-md-7">
 										<div class="speaker-modal-content">
 											<h2 class="speaker-name">Arun Kumar Bajaj</h2><br>
-											<span class="speaker-job">Sewing Machine Artist</span>
+											<span class="speaker-job">"My soul is fed, by needle and thread"</span>
 
-											<p><br>Arun kumar Bajaj AKA Needle man is the world’s only sewing machine artist.Bajaj always dreamed of being a painter but following the sudden death of his father, he was forced into the tailoring business. He didn’t let the artist in him die and began experimenting with the needle and thread. Arun made it to “The India Book of Records” for his unique lord Krishna embroidery on February 4,2015.</p>
+											<p><br><b><i>The World's only Sewing Machine artist, Having more than 3 world Records! </i></b> His thread paintings are having fans such as PM Modi and other high profiles such as Dharmendra and other stars. His Lord Krishna portrait is phenomenal!! Want to know more about the world's only sewing machine artist, the Needleman, Arun Bajaj and his eccentric art? Dont forget to be at TEDx-VGEC.</p>
 
-<!--
+
 											<div class="speaker-website">
 												<h4>Website</h4>
-												<a href="#">www.johndoe.com</a>
+												<a target="_blank" href="http://www.bajajart.blogspot.com">www.bajajart.blogspot.com</a>
 											</div>
--->
 
-<!--
+
+
 											<div class="speaker-social">
 												<h4>Social Profile</h4>
-												<a href="#"><i class="fa fa-facebook"></i></a>
-												<a href="#"><i class="fa fa-twitter"></i></a>
+												<a target="_blank" href="https://www.facebook.com/inuvashan/">
+													<i class="fa fa-facebook"></i>
+												</a>
+												<!-- <a href="#"><i class="fa fa-twitter"></i></a>
 												<a href="#"><i class="fa fa-instagram"></i></a>
-												<a href="#"><i class="fa fa fa-linkedin"></i></a>
+												<a href="#"><i class="fa fa fa-linkedin"></i></a> -->
 											</div>
--->
+
 
 <!--
 											<div class="speaker-events">
@@ -742,7 +607,7 @@ include("header.php");
 								<div class="row">
 									<div class="col-md-5">
 										<div class="speaker-modal-img">
-											<img src="./img/anand.jpg" alt="">
+											<img src="./img/abb.jpeg" alt="">
 										</div>
 									</div>
 									<div class="col-md-7">
@@ -751,22 +616,22 @@ include("header.php");
                                             <br>
 											<span class="speaker-job">Asst. Vice President Reliance</span>
                                             
-											<p><br>His success journey involves positions in corporate world as a contributor. Starting from AVP Reliance to GM with HCL, building the managerial, leadership capabilities and competencies of employees at various cadres through instruction led training as well as e-learning modules,his journey has been a great motivation.</p>
+											<p><br><b><i>His success journey involves positions in corporate world as a contributor.</i></b> Starting from AVP Reliance to GM with HCL, building the managerial, leadership capabilities and competencies of employees at various cadres through instruction led training as well as e-learning modules,his journey has been a great motivation.</p>
 
-<!--
-											<div class="speaker-website">
+
+											<!-- <div class="speaker-website">
 												<h4>Website</h4>
 												<a href="#">www.johndoe.com</a>
-											</div>
+											</div> -->
 
 											<div class="speaker-social">
 												<h4>Social Profile</h4>
-												<a href="#"><i class="fa fa-facebook"></i></a>
-												<a href="#"><i class="fa fa-twitter"></i></a>
-												<a href="#"><i class="fa fa-instagram"></i></a>
-												<a href="#"><i class="fa fa fa-linkedin"></i></a>
+												<a target="_blank" href="https://www.facebook.com/anand1971"><i class="fa fa-facebook"></i></a>
+												<a target="_blank" href="https://twitter.com/anand_bhatnagar"><i class="fa fa-twitter"></i></a>
+												<!-- <a target="_blank" href=""><i class="fa fa-instagram"></i></a> -->
+												<a target="_blank" href="https://in.linkedin.com/in/anand-bhatnagar-15804113"><i class="fa fa fa-linkedin"></i></a>
 											</div>
--->
+
 
 <!--
 											<div class="speaker-events">
@@ -851,7 +716,7 @@ include("header.php");
 				</div>
 				 -->
                 
-                    <!-- speaker modal -->
+                    <!-- speaker modal 
 				<div id="speaker-modal-5" class="speaker-modal modal fade">
 					<div class="modal-dialog">
 						<div class="modal-content">
@@ -872,35 +737,24 @@ include("header.php");
 											<b><i>"You don't take a photograph, you make it".</i></b><br>
 											Winner of more than 100 international awards, including the 'Art Knight' and the 'Global Art Award', member of over 70 organizations, Riya Sharma is an accomplished creative travel photographer, a social media influencer and a public speaker. Surely, the journey from Kalol to New York Institute of Photography must have been testing. Learn more about the secrets of success of the  'World Book of Record' certificate holder, Riya Sharma, exclusively at TEDx-VGEC.</p>
 
-<!--
+
 											<div class="speaker-website">
 												<h4>Website</h4>
-												<a href="#">www.johndoe.com</a>
+												<a href="https://www.riyaartgallery.com/">www.riyaartgallery.com</a>
 											</div>
 
 											<div class="speaker-social">
 												<h4>Social Profile</h4>
-												<a href="#"><i class="fa fa-facebook"></i></a>
-												<a href="#"><i class="fa fa-twitter"></i></a>
-												<a href="#"><i class="fa fa-instagram"></i></a>
-												<a href="#"><i class="fa fa fa-linkedin"></i></a>
+												<a target="_blank" href="https://www.facebook.com/riyasharmaphotographer/">
+													<i class="fa fa-facebook"></i>
+												</a>
+												<a target="_blank" href="https://twitter.com/TheRiyaSharma">
+													<i class="fa fa-twitter"></i>
+												</a>
+												<a target="_blank" href="https://www.instagram.com/theriyasharmaofficial/">
+													<i class="fa fa-instagram"></i>
+												</a>
 											</div>
--->
-
-<!--
-											<div class="speaker-events">
-												<h4>Sessions</h4>
-												<div class="speaker-event">
-													<span><strong>Day 1 -</strong> February 20, 2018 8 : 00 AM - 11 : 00 AM</span>
-													<p>His id altera fabellas facilisis. Has eros assueverit cu</p>
-												</div>
-
-												<div class="speaker-event">
-													<span><strong>Day 2 -</strong> February 20, 2018 8 : 00 AM - 11 : 00 AM</span>
-													<p>At mucius deserunt delicatissimi eam, labitur detraxit ut sit</p>
-												</div>
-											</div>
--->
 
 										</div>
 									</div>
@@ -909,7 +763,7 @@ include("header.php");
 						</div>
 					</div>
 				</div>
-				<!-- /speaker modal -->
+				 -->
                 
                      <!-- speaker modal -->
 				<div id="speaker-modal-6" class="speaker-modal modal fade">
@@ -920,40 +774,42 @@ include("header.php");
 								<div class="row">
 									<div class="col-md-5">
 										<div class="speaker-modal-img">
-											<img src="./img/mukesh.jpg" alt="">
+											<img src="./img/aparna.jpeg" alt="">
 										</div>
 									</div>
 									<div class="col-md-7">
 										<div class="speaker-modal-content">
-											<h2 class="speaker-name">Mukesh Bavishi</h2>
+											<h2 class="speaker-name">Aparna Balasundaram</h2>
                                             <br>
-											<span class="speaker-job">Gynec Cancer Surgeon, Fertility Specialist, Cosmetic Surgeon</span>
+											<span class="speaker-job">Author and USA-Licensed Psychotherapist</span>
                                             
-											<p><br>He is a leading Gynec Surgeon, Fertility specialist, Gynec cancer surgeon and cosmetic surgeon for women practicing for 25 years now. He has invented 4 stichless surgeries for women,one of which he has named after his wife as Vidula’s operation. He has created a world record in Gynec surgeries and won 5 international and 11 national awards including the prestigious “American medal of honor”,” Ouststanding gynec-surgeon, USA” ,”Chikatsa Ratna”,”Indira Gandhi Sadbhavana Award”,”Gaurav Vanta Gujarati” award, ”Gynecologist of the year” by Indian Medical Association.</p>
+											<p><br><b><i>Aparna Samuel Balasundaram is a is an author and USA-Licensed Psychotherapist with 20 years of experience in the field of Human Development, Parent Coaching, Training and Education.</i></b> She is the recipient of New York University’s ‘Deans Award’ for academic excellence and the Press-Ganey Award for Clinical Expertise, USA. Aparna has been published in leading print media and has been invited as a speaker to international conferences.
+											She is the Founder of three organizations that helps people reach their full potential so they might lead flourishing lives - LIFE SKILLS EXPERTS, A FLOURISHING ME and WORK SKILLS EXPERTS.
+											Life Skills Experts is passionate about raising happy, confident and successful children and families! They conduct Positive Parenting Workshops, Transformational Teacher Training and Children’s Life Skills Session, with progressive corporates and schools like- The Doon School, Vasant Valley School, Step by Step World School, Kunskapsskolan, American Embassy School, Microsoft, Wipro, Airtel, Accenture, NDTV, Suncity World School, Lancers International, American Excelsior, Aricent, Biocon, DLF, UNICEF.</p>
 
 
-											 <div class="speaker-website">
+									<!-- <div class="speaker-website">
 												<h4>Website</h4>
 												<a href="#">www.johndoe.com</a>
-											</div> 
+											</div> -->
 
 											<div class="speaker-social">
 												<h4>Social Profile</h4>
-												<a href="#"><i class="fa fa-facebook"></i></a>
-												<a href="#"><i class="fa fa-twitter"></i></a>
-												<a href="#"><i class="fa fa-instagram"></i></a>
-												<a href="#"><i class="fa fa fa-linkedin"></i></a>
+												<a target="_blank" href="https://www.facebook.com/aparnasamuel?ref=br_rs"><i class="fa fa-facebook"></i></a>
+												<a target="_blank" href="https://twitter.com/parentingthtwks?lang=en"><i class="fa fa-twitter"></i></a>
+												<!-- <a href="#"><i class="fa fa-instagram"></i></a> -->
+												<a target="_blank" href="https://in.linkedin.com/in/aparnasamuelbalasundaram"><i class="fa fa fa-linkedin"></i></a>
 											</div>
 
 
-
+<!-- 
 											<div class="speaker-events">
 												<h4>Session</h4>
 												<div class="speaker-event">
 													<span><strong>Day 1 -</strong> February 20, 2018 8 : 00 AM - 11 : 00 AM</span>
 													<p>His id altera fabellas facilisis. Has eros assueverit cu</p>
 												</div>
-											</div>
+											</div> -->
 
 
 										</div>
@@ -1212,7 +1068,7 @@ include("header.php");
                                 <div class="event-hour"></div>
                                 <br><br>
 								<p class="event-time"><i class="fa fa-clock-o"></i> 12 : 15 PM - 01 : 00 PM</p>
-								<h3 class="event-title">Lunch</h3>
+								<h3 class="event-title">Lunch Break</h3>
 <!--
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 								<p>By <a href="#">John Doe</a></p>
@@ -1352,7 +1208,7 @@ include("header.php");
                     
 
 					<div class="download-btn">
-						<a style="background-color: #e62b1e;" href="#" class="main-btn">Download Schedule</a>
+						<a style="background-color: #e62b1e;" href="http://www.tedxvgec.com/docs/SCHEDULE.pdf" class="main-btn">Download Schedule</a>
 					</div>
 
 				</div>
@@ -1379,6 +1235,7 @@ include("header.php");
 
 				<!-- sponsor -->
 				<div class="col-md-3 col-sm-4 col-xs-6">
+					<h3 style="color: #e62b1e; text-align: center;">Promotion Partner</h3>
 					<a href="https://instagram.com/ahmedabad_live?utm_source=ig_profile_share&igshid=1ngkfdjq2ae6d" class="sponsor">
 						<img src="./img/ahlive.jpg" alt="">
 					</a>
@@ -1387,6 +1244,7 @@ include("header.php");
 
 				<!-- sponsor -->
 				<div class="col-md-3 col-sm-4 col-xs-6">
+					<h3 style="color: #e62b1e; text-align: center;">HighTea Sponsor</h3>
 					<a href="https://www.justdial.com/Ahmedabad/Gozel-Salons-Nr-Sakar-School-Chandkheda/079PXX79-XX79-170508165055-G6N6_BZDET" class="sponsor">
 						<img src="./img/gozel.jpg" alt="">
 					</a>
@@ -1395,6 +1253,7 @@ include("header.php");
 
 				<!-- sponsor -->
 				<div class="col-md-3 col-sm-4 col-xs-6">
+					<h3 style="color: #e62b1e; text-align: center;">Education Partner</h3>
 					<a href="https://www.endeavorcareers.com/" class="sponsor">
 						<img src="./img/endeavor.jpg" alt="">
 					</a>
@@ -1403,6 +1262,7 @@ include("header.php");
 
 				<!-- sponsor -->
 				<div class="col-md-3 col-sm-4 col-xs-6">
+					<h3 style="color: #e62b1e; text-align: center;">Team T-shirt Sponsor</h3>
 					<a href="http://www.karkhanawala.in/" class="sponsor">
 						<img src="./img/karkhana.jpg" alt="">
 					</a>
@@ -1411,6 +1271,7 @@ include("header.php");
 
 				<!-- sponsor -->
 				<div class="col-md-3 col-sm-4 col-xs-6">
+					<h3 style="color: #e62b1e; text-align: center;">Printing Partner</h3>
 					<a href="https://www.justdial.com/Ahmedabad/Sunshine-Photo-Print-Pvt-Ltd-New-C-G-Road-Chandkheda/079PXX79-XX79-150221175106-V2G1_BZDET" class="sponsor">
 						<img src="./img/sunshine.jpg" alt="">
 					</a>
@@ -1440,7 +1301,7 @@ include("header.php");
 					<div class="cta-content text-center">
 						<h2>Get Your Tickets</h2>
 						<p class="lead">Grab Your Tickets Right Now Before Someone Else Does!!</p>
-						<a target="_blank" style="background-color: #e62b1e;" href="buy.php" class="main-btn">Buy Tickets</a>
+						<a target="_blank" style="background-color: #e62b1e;" href="#" class="main-btn">Buy Tickets</a>
 					</div>
 				</div>
 				<!-- /cta content -->
@@ -1499,16 +1360,13 @@ include("header.php");
 					</div>
 				</div>
 				<!-- /contact -->
-
+</div>
 			</div>
 			<!-- /row -->
 		</div>
 		<!-- /container -->
 
-		<!-- Map -->
-		<div id="map"></div>
-		<!-- /Map -->
-	</div>
+		
 	<!-- /Contact -->
 
 <?php

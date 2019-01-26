@@ -526,6 +526,14 @@ textarea.input {
   color: #FFF;
 }
 
+.speaker .speaker-content>h3 {
+  color: #FFF;
+}
+
+.speaker .speaker-content>h4 {
+  color: #FFF;
+}
+
 .speaker .speaker-content>span {
   color: #fff;
 }
@@ -784,14 +792,9 @@ textarea.input {
 
 .sponsor {
   display: block;
-  opacity: 0.5;
   margin-bottom: 30px;
   -webkit-transition: 0.3s opacity;
   transition: 0.3s opacity;
-}
-
-.sponsor:hover {
-  opacity: 1;
 }
 
 .sponsor>img {

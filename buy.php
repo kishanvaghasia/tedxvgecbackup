@@ -173,7 +173,7 @@
                     
                     <div class="page-wrapper-content">
                         <br><br><br>
-                        	<a style="background-color: #e62b1e;" href="https://www.onlinesbi.com/ sbicollect/ icollecthome.htm" target="_blank" class="main-btn">Buy Now</a>
+                        	<a style="background-color: #e62b1e;" href="#" target="_blank" class="main-btn">Buy Now</a>
 					</div>
                     
                     
