@@ -89,9 +89,26 @@
 				<!-- wrapper content -->
 				<div class="col-md-8 col-md-offset-2">
 					<div class="page-wrapper-content">
-						<h1>Steps to buy ticket</h1>
+						<h1>STEPS FOR TEDXVGEC PAYMENT </h1>
 					</div>
 				</div>
+                
+                <div class="col-md-8 col-md-offset-2">
+					<div class="page-wrapper-content">
+                        <br>
+						<h3>Tickets only available for Current VGEC Students/ VGEC Staff/ VGEC Alumni </h3>
+                        <br>
+                        <h3  style="text-align:left">Notes: - </h3>
+                        
+                        <h3 style="font-size:19px;text-align:justify">1.  VGEC STUDENT - If you are currently pursuing in VGEC then you have to enter your enrollment number in SBI COLLECT PORTAL.</h3>
+                        
+                        <h3 style="font-size:19px;text-align:justify">2. VGEC STAFF - Staff members of VGEC must enter their Name, Designation, Department (in a text box above remarks section).</h3>
+                        
+                        <h3 style="font-size:19px;text-align:justify">3. VGEC ALUMNI – Alumni’s of VGEC must enter their Name, enrollment number and batch year.</h3>
+                        
+                  </div>
+				</div>
+                
 				<div class="col-md-12">
 					<div class="page-wrapper-content">
                         <br><br><p class="" style="font-size:20px;">Step 1: <b>Accept</b> the terms and conditions and <b>click on proceed</b>
@@ -112,7 +129,7 @@
                         <br><br><p style="font-size:20px;">Step 2:&nbsp;&nbsp;Select <b>Gujarat</b> as State of Corporate / Institution 
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>Select <b>Educational</b> Institution as type of Corporate / Institution 
 
-                           <br> <a style="font-size:15px;" href="https://www.onlinesbi.com/sbicollect/sbclink/displayinstitutiontype.htm">https://www.onlinesbi.com/ sbicollect/sbclink/  displayinstitutiontype.htm</a></p>
+                           
 						<img src="img/sc%202.jpg" style="height:0%; width:85%;">
 					</div>
 				</div>
@@ -130,7 +147,7 @@
                         <br><br><p style="font-size:20px;">Step 3:&nbsp;&nbsp;Select <b>Vishwakarma Government Engineering College</b> as Educational Institutions Name 
                         
 
-                           <br> <a style="font-size:15px;" href="https://www.onlinesbi.com/sbicollect/payment/listinstitution.htm">https://www.onlinesbi.com/ sbicollect/payment/ listinstitution.htm</a></p>
+                           
 						<img src="img/sc%203.jpg" style="height:0%; width:85%;">
 					</div>
 				</div>
@@ -147,7 +164,7 @@
                         <br><br><p style="font-size:20px;">Step 4:&nbsp;&nbsp;Select <b>Workshop-Conference-Seminar-FDP-STTP Fees</b> as Payment Category 
                         
 
-                           <br> <a style="font-size:15px;" href="https://www.onlinesbi.com/sbicollect/payment/listcategory.htm">https://www.onlinesbi.com/ sbicollect/payment/ listcategory.htm</a></p>
+                           
 						<img src="img/sc%205.jpg" style="height:0%; width:85%;">
 					</div>
 				</div>
@@ -165,9 +182,9 @@
                        <br> Title of Work Shop: <b>tedxvgec</b>
                         <br>Organizing Department: <b>vgec</b>
                     <br> Start Date and End Date as: <b>28/02/2019</b>
-                        <br>Fees as per Brochure: ###
+                        <br>Fees as per Brochure:<b> 400/- (only for Current VGEC Students/ VGEC Staff/ VGEC Alumni)</b> 
 
-                           <br> <a style="font-size:15px;" href="https://www.onlinesbi.com/sbicollect/payment/showpaymentdetails.htm">https://www.onlinesbi.com/ sbicollect/payment/ showpaymentdetails.htm</a></p>
+                          
 						<img src="img/sc%206.jpg" style="height:0%; width:85%;">
 					</div>
                     
