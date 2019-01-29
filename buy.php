@@ -196,7 +196,7 @@
                     
                     <div class="page-wrapper-content">
                         <br><br><br>
-                        <p>For any Queries Contact us on&nbsp;<b><a href="tel:+91 7490832150">  +91 7490832150</b></p>
+                        <p>For any Queries Contact us on&nbsp;<b><a href="tel:+91 7490832150">  +91 7490832150</b>&nbsp;&nbsp;&nbsp;<b><a href="tel:+91 9909555507">+91 9909555507</b>&nbsp;&nbsp;&nbsp;<b><a href="tel:+91 7359135822">+91 7359135822</b></p>
 					</div>
                     
                     

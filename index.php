@@ -57,7 +57,7 @@ include("header.php");
 						<div class="home-content">
 							<h2>TEDxVGEC PRESENTS: CONNECTING THE DOTS</h2>
 							<h4 class="lead"> You can't connect the dots looking forward,</br> You can only connect them looking backward </h4>
-							<a target="_blank" style="background-color: #e62b1e;" href="#" class="main-btn">Buy Tickets</a>
+							<a target="_blank" style="background-color: #e62b1e;" href="buy.php" class="main-btn">Buy Tickets</a>
 							<br><br>
 							<p class="lead" style="color:white">For general public tickets will be available soon</p>
 						</div>
@@ -1303,7 +1303,7 @@ include("header.php");
 					<div class="cta-content text-center">
 						<h2>Get Your Tickets</h2>
 						<p class="lead">Grab Your Tickets Right Now Before Someone Else Does!!</p>
-						<a target="_blank" style="background-color: #e62b1e;" href="#" class="main-btn">Buy Tickets</a>
+						<a target="_blank" style="background-color: #e62b1e;" href="buy.php" class="main-btn">Buy Tickets</a>
 						<br><br>
 						<p class="lead">For general public tickets will be available soon</p>
 					</div>
