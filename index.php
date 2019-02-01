@@ -332,56 +332,47 @@ include("header.php");
                 
 
                 
-               <!-- Riya speaker -->
+               <!-- pooja speaker -->
 				<div class="col-md-3 col-sm-6">
-					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-five">
+					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-7">
 						<div class="speaker-img">
-							<img src="./img/QMarkSmall%20-%20Copy.jpg" alt="">
+							<img src="./img/pc.jpeg" alt="">
 						</div>
 						<div class="speaker-body">
-<!--
+
 							<div class="speaker-social">
-								<a target="_blank" href="https://www.facebook.com/riyasharmaphotographer/">
-									<i class="fa fa-facebook"></i>
-								</a>
-								<a target="_blank" href="https://twitter.com/TheRiyaSharma">
-									<i class="fa fa-twitter"></i>
-								</a>
-								<a target="_blank" href="https://www.instagram.com/theriyasharmaofficial/">
-									<i class="fa fa-instagram"></i>
-								</a>
-								<a target="_blank" href="https://www.linkedin.com/in/riyasharmaphotographer/">
-									<i class="fa fa fa-linkedin"></i>
-								</a> 
-							</div> -->
+												<a target="_blank" href="https://www.facebook.com/PoojaChaurushi.triathlete/"><i class="fa fa-facebook"></i></a>
+												<a target="_blank" href="https://twitter.com/poojachaurushi"><i class="fa fa-twitter"></i></a>
+												<a target="_blank" href="https://www.instagram.com/poojachaurushi/"><i class="fa fa-instagram"></i></a>
+												<a target="_blank" href="https://in.linkedin.com/in/pooja-chaurushi-65168020"><i class="fa fa fa-linkedin"></i></a>
+							</div>
 
 							<div class="speaker-content">
-								<h3>Coming Soon</h3>
-								<span></span>
+								<h3>Pooja Chaurushi</h3>
+								<span>National Triathlon Champion</span>
 							</div>
 						</div>
 					</div>
 				</div>  
               <!-- speaker -->
 				<div class="col-md-3 col-sm-6">
-					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-one">
+					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-8">
 						<div class="speaker-img">
-							<img src="./img/QMarkSmall%20-%20Copy.jpg" alt="">
+							<img src="./img/mukesh.jpg" alt="">
 						</div>
 						<div class="speaker-body">
 
-<!--
+
 							<div class="speaker-social">
-								<a href="#"><i class="fa fa-facebook"></i></a>
-								<a href="#"><i class="fa fa-twitter"></i></a>
-								<a href="#"><i class="fa fa-instagram"></i></a>
-								<a href="#"><i class="fa fa fa-linkedin"></i></a>
+								<a target="_blank" href="https://www.facebook.com/mukesh.bavishi1"><i class="fa fa-facebook"></i></a>
+								<a target="_blank" href="https://twitter.com/drmukeshbavishi"><i class="fa fa-twitter"></i></a>
+								<!-- <a target="_blank" href=""><i class="fa fa-instagram"></i></a> 
+								<a target="_blank" href=""><i class="fa fa fa-linkedin"></i></a>-->
 							</div>
--->
 
 							<div class="speaker-content">
-								<h3>Coming Soon</h3>
-								<span></span>
+								<h3>Dr. Mukesh Bavishi</h3>
+								<span>Gynec-Surgeon</span>
 							</div>
 						</div>
 					</div>
@@ -823,7 +814,7 @@ include("header.php");
 				</div>
 				<!-- /speaker modal -->
                 
-                 <!--
+                 
 				<div id="speaker-modal-7" class="speaker-modal modal fade">
 					<div class="modal-dialog">
 						<div class="modal-content">
@@ -832,33 +823,33 @@ include("header.php");
 								<div class="row">
 									<div class="col-md-5">
 										<div class="speaker-modal-img">
-											<img src="./img/anil.jpg" alt="">
+											<img src="./img/pc.jpeg" alt="">
 										</div>
 									</div>
 									<div class="col-md-7">
 										<div class="speaker-modal-content">
-											<h2 class="speaker-name">Anil Kumar Gupta</h2>
+											<h2 class="speaker-name">Pooja Chaurushi</h2>
                                             <br>
-											<span class="speaker-job">Founder of Honey Bee Network and Professor at IIM Ahmedabad</span>
+											<span class="speaker-job">Seven Times National Triathlon Champion</span>
                                             
-											<p><br>He is a scholar in the area of grassroots innovations. He is a founder of honey bee network and has been a Professor at the indian institute of Management,Ahmedabad. Besides  ,he holds the executive vice chair of the National innovation Foundation. He is also a fellow of the world Academy of Art and science. He was awarded the Padma Shri in the year 2004, for his contributions to management education.</p>
+											<p><br>Known as the Golden Girl, Surat's triathlete Pooja Chaurushi. Seven times national triathlon champion has been named the brand ambassador of South Asian Triathlon Association.Pooja is the only triathlete in South Asia who has been active for long and also is a great champion. She is India’s first & only ITU certified Level 2 coach who has train Asian Triathlon Team at Indonesia & Malaysia in 2017 & Thailand in 2018 at camps conducted by International Triathlon Union (ITU).Till date she has won more than 220 medals in Swimming & Triathlon. She has been awarded Eklavya Senior Award, the highest sports recognition from Gujarat govt.</p>
 
-
+<!-- 
 											<div class="speaker-website">
 												<h4>Website</h4>
 												<a href="#">www.johndoe.com</a>
-											</div>
+											</div> -->
 
 											<div class="speaker-social">
 												<h4>Social Profile</h4>
-												<a href="#"><i class="fa fa-facebook"></i></a>
-												<a href="#"><i class="fa fa-twitter"></i></a>
-												<a href="#"><i class="fa fa-instagram"></i></a>
-												<a href="#"><i class="fa fa fa-linkedin"></i></a>
+												<a href="https://www.facebook.com/PoojaChaurushi.triathlete/"><i class="fa fa-facebook"></i></a>
+												<a href="https://twitter.com/poojachaurushi"><i class="fa fa-twitter"></i></a>
+												<a href="https://www.instagram.com/poojachaurushi/"><i class="fa fa-instagram"></i></a>
+												<a href="https://in.linkedin.com/in/pooja-chaurushi-65168020"><i class="fa fa fa-linkedin"></i></a>
 											</div>
 
 
-
+<!-- 
 											<div class="speaker-events">
 												<h4>Sessions</h4>
 												<div class="speaker-event">
@@ -871,7 +862,7 @@ include("header.php");
 													<p>At mucius deserunt delicatissimi eam, labitur detraxit ut sit</p>
 												</div>
 											</div>
-
+ -->
 
 										</div>
 									</div>
@@ -880,9 +871,9 @@ include("header.php");
 						</div>
 					</div>
 				</div>
-				-->
+				
                 
-                   <!-- 
+                    
 				<div id="speaker-modal-8" class="speaker-modal modal fade">
 					<div class="modal-dialog">
 						<div class="modal-content">
@@ -891,32 +882,32 @@ include("header.php");
 								<div class="row">
 									<div class="col-md-5">
 										<div class="speaker-modal-img">
-											<img src="./img/krishna.jpg" alt="">
+											<img src="./img/mukesh.jpg" alt="">
 										</div>
 									</div>
 									<div class="col-md-7">
 										<div class="speaker-modal-content">
-											<h2 class="speaker-name">Prof K. Thyagrajan</h2>
+											<h2 class="speaker-name">Dr. Mukesh Bavishi</h2>
                                             <br>
-											<span class="speaker-job">Prof. AT IIT DELHI , PHYSICS</span>
+											<span class="speaker-job">Has created a World Record in Gynec surgeries</span>
                                             
-											<p><br>He is currently a professor at the Physics Department, IIT Delhi. He has held visiting positions at laboratoire central de recherches, Thomson-CSF France ,Department of electrical engineering, University of florida,USA,University of Waterloo,Canada, the city university of Hong kong and Tokyo insitutes of technology, japan. He has published more than 140 research papers in international journals, has filed five patent applications. In 1998 he was the co-recipient (with Prof B P Pal) of the "Fiber Optic Person of the Year 1997” award by Lucent Technologies- Finolex and Voice and Data, India. In 2003 he was decorated with the title of “Officier dans l’ordre des Palmes Académiques” by the French Government, in 2005 he was elected a Fellow of the Optical Society of America . In 2011 he received the “Teaching Excellence Award” from IIT Delhi.  </p>
+											<p><br><b><i>Has created a world Record in Gynec surgeries & won 5 international and 11 national awards</i></b> including the prestigious “ American medal of honor”, “ Outstanding Gynec-surgeon” USA, “ Sachin Tendulkar of Gynec Surgery”, “Chikitsa Ratna”, “Indira Gandhi sadbhavana Award”, “Gaurav Vanta Gujarati” award, “ Gynecologist of the year” by Indian Medical Association. Dr. Bavishi has invented 4 stitch less surgeries (NDVH- Non Descent Vaginal Hysterectomy) for women, one of which he has named after his wife as Vidula’s operation. Divya Bhaskar awarded him with “Power 100 Awards” in the golden jubilee year of Gujarat including his name in the 100 most powerful people of Gujarat.</p>
 
 
-											<div class="speaker-website">
+<!-- 											<div class="speaker-website">
 												<h4>Website</h4>
 												<a href="#">www.johndoe.com</a>
-											</div>
+											</div> -->
+											
+							<div class="speaker-social">
+								<h4>Social Profile</h4>
+								<a target="_blank" href="https://www.facebook.com/mukesh.bavishi1"><i class="fa fa-facebook"></i></a>
+								<a target="_blank" href="https://twitter.com/drmukeshbavishi"><i class="fa fa-twitter"></i></a>
+								<!-- <a target="_blank" href=""><i class="fa fa-instagram"></i></a> 
+								<a target="_blank" href=""><i class="fa fa fa-linkedin"></i></a>-->
+							</div>
 
-											<div class="speaker-social">
-												<h4>Social Profile</h4>
-												<a href="#"><i class="fa fa-facebook"></i></a>
-												<a href="#"><i class="fa fa-twitter"></i></a>
-												<a href="#"><i class="fa fa-instagram"></i></a>
-												<a href="#"><i class="fa fa fa-linkedin"></i></a>
-											</div>
-
-
+<!-- 
 											<div class="speaker-events">
 												<h4>Sessions</h4>
 												<div class="speaker-event">
@@ -928,7 +919,7 @@ include("header.php");
 													<span><strong>Day 2 -</strong> February 20, 2018 8 : 00 AM - 11 : 00 AM</span>
 													<p>At mucius deserunt delicatissimi eam, labitur detraxit ut sit</p>
 												</div>
-											</div>
+											</div> -->
 
 
 										</div>
@@ -938,7 +929,7 @@ include("header.php");
 						</div>
 					</div>
 				</div>
-				-->
+				
                 
                 
 			</div>
@@ -958,7 +949,7 @@ include("header.php");
 			<div class="row">
 				<!-- section title -->
 				<div class="section-title">
-					<h3 class="title"><span>Event</span> <span style="color: #e62b1e;">Schedule</span></h3>
+					<h3 class="title"><span>Tentative Event</span> <span style="color: #e62b1e;">Schedule</span></h3>
 				</div>
 				<!-- /section title -->
 
@@ -1239,7 +1230,7 @@ include("header.php");
 				<div class="col-md-3 col-sm-4 col-xs-6">
 					<h3 style="color: #e62b1e; text-align: center;">Promotion Partner</h3>
 					<a href="https://instagram.com/ahmedabad_live?utm_source=ig_profile_share&igshid=1ngkfdjq2ae6d" class="sponsor">
-						<img src="./img/ahlive.jpg" alt="">
+						<img src="./img/ahlive.png" alt="">
 					</a>
 				</div>
 				<!-- /sponsor -->
@@ -1275,7 +1266,7 @@ include("header.php");
 				<div class="col-md-3 col-sm-4 col-xs-6">
 					<h3 style="color: #e62b1e; text-align: center;">Printing Partner</h3>
 					<a href="https://www.justdial.com/Ahmedabad/Sunshine-Photo-Print-Pvt-Ltd-New-C-G-Road-Chandkheda/079PXX79-XX79-150221175106-V2G1_BZDET" class="sponsor">
-						<img src="./img/sunshine.jpg" alt="">
+						<img src="./img/sunshine.png" alt="">
 					</a>
 				</div>
 				<!-- /sponsor -->
@@ -1342,8 +1333,6 @@ include("header.php");
 					<div class="contact">
 						<h3>Phone</h3>
 						<a href="tel:+91 7490832150">+91 7490832150</p>
-                        <a href="tel:+91 9909555507">+91 9909555507</p>
-                        <a href="tel:+91 7359135822">+91 7359135822</p>
 					</div>
 				</div>
 				<!-- /contact -->
