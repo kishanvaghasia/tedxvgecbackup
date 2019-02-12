@@ -252,29 +252,6 @@ include("header.php");
 -->
 				<!-- /speaker -->
 
-				<!-- speaker
-				<div class="col-md-4 col-sm-6">
-					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-2">
-						<div class="speaker-img">
-							<img src="./img/aparna%20-%20Copy.jpg" alt="">
-						</div>
-						<div class="speaker-body">
-
-							<div class="speaker-social">
-								<a href="#"><i class="fa fa-facebook"></i></a>
-								<a href="#"><i class="fa fa-twitter"></i></a>
-								<a href="#"><i class="fa fa-instagram"></i></a>
-								<a href="#"><i class="fa fa fa-linkedin"></i></a>
-							</div>
-
-							<div class="speaker-content">
-								<h2>Aparna Samuel Balasundaram</h2>
-								<span>Physchoteraphist and Author</span>
-							</div>
-						</div>
-					</div>
-				</div>
-				-->
 
                 
                 <!-- Anand speaker -->
@@ -323,7 +300,7 @@ include("header.php");
 
 							<div class="speaker-content">
 								<h4>Aparna Balasundaram</h4>
-								<span>Author & USA-Licensed Psychotherapist</span>
+								<span>Author & Award Winning Psychotherapist</span>
 							</div>
 						</div>
 					</div>
@@ -381,27 +358,25 @@ include("header.php");
                 
                 
                 
-                
-	  <!-- speaker -->
+
+			 <!-- speaker -->
 				<div class="col-md-3 col-sm-6">
-					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-one">
+					<div class="speaker" data-toggle="modal" data-target="#speaker-modal-2">
 						<div class="speaker-img">
-							<img src="./img/QMarkSmall%20-%20Copy.jpg" alt="">
+							<img src="./img/aj.jpg" alt="Archana Jain">
 						</div>
 						<div class="speaker-body">
 
-<!--
 							<div class="speaker-social">
-								<a href="#"><i class="fa fa-facebook"></i></a>
-								<a href="#"><i class="fa fa-twitter"></i></a>
-								<a href="#"><i class="fa fa-instagram"></i></a>
-								<a href="#"><i class="fa fa fa-linkedin"></i></a>
+								<a target="_blank" href="https://www.facebook.com/myrjarchanajani/"><i class="fa fa-facebook"></i></a>
+								<a target="_blank" href="https://twitter.com/myrjarchanajani"><i class="fa fa-twitter"></i></a>
+								<a target="_blank" href="https://www.instagram.com/myrjarchanajani/?utm_source=ig_profile_share&igshid=1ep96acpndzhw"><i class="fa fa-instagram"></i></a>
+								<!-- <a target="_blank" href="#"><i class="fa fa fa-linkedin"></i></a> -->
 							</div>
--->
 
-							<div class="speaker-content">
-								<h3>Coming Soon</h3>
-								<span></span>
+								<div class="speaker-content">
+								<h3>Archana Jani</h3>
+								<span>RJ at 94.3 MYFM</span>
 							</div>
 						</div>
 					</div>
@@ -530,64 +505,7 @@ include("header.php");
 					</div>
 				</div>
 				<!-- /speaker modal -->
-                
-                <!-- 
-				<div id="speaker-modal-2" class="speaker-modal modal fade">
-					<div class="modal-dialog">
-						<div class="modal-content">
-							<button type="button" class="speaker-modal-close" data-dismiss="modal"></button>
-							<div class="modal-body">
-								<div class="row">
-									<div class="col-md-5">
-										<div class="speaker-modal-img">
-											<img src="./img/aparna.jpg" alt="">
-										</div>
-									</div>
-									<div class="col-md-7">
-										<div class="speaker-modal-content">
-											<h2 class="speaker-name">Aparna Samuel Balasundaram</h2>
-											<span class="speaker-job">Physchoteraphist and Author</span>
-                                            
-											<p><br>She is an author and USA-licensed Psychotherapist with 20 years of experience in the field of human development,parent Coaching,Training and education.She is the recipient of New-york university’s ‘Deans Award’ for academic excellence and the press-Ganey award for clinical expertise,USA. Aparna has been published in leading print media and has been invited as a speaker to international conferences.</p>
-
-
-											<div class="speaker-website">
-												<h4>Website</h4>
-												<a href="#">www.johndoe.com</a>
-											</div>
-
-											<div class="speaker-social">
-												<h4>Social Profile</h4>
-												<a href="#"><i class="fa fa-facebook"></i></a>
-												<a href="#"><i class="fa fa-twitter"></i></a>
-												<a href="#"><i class="fa fa-instagram"></i></a>
-												<a href="#"><i class="fa fa fa-linkedin"></i></a>
-											</div>
-
-
-
-											<div class="speaker-events">
-												<h4>Sessions</h4>
-												<div class="speaker-event">
-													<span><strong>Day 1 -</strong> February 20, 2018 8 : 00 AM - 11 : 00 AM</span>
-													<p>His id altera fabellas facilisis. Has eros assueverit cu</p>
-												</div>
-
-												<div class="speaker-event">
-													<span><strong>Day 2 -</strong> February 20, 2018 8 : 00 AM - 11 : 00 AM</span>
-													<p>At mucius deserunt delicatissimi eam, labitur detraxit ut sit</p>
-												</div>
-											</div>
-
-
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				 -->
+				
                 
                 
                 
@@ -774,9 +692,9 @@ include("header.php");
 										<div class="speaker-modal-content">
 											<h2 class="speaker-name">Aparna Balasundaram</h2>
                                             <br>
-											<span class="speaker-job">Author and USA-Licensed Psychotherapist</span>
+											<span class="speaker-job">Author and Award Winning Psychotherapist</span>
                                             
-											<p><br><b><i>Aparna Samuel Balasundaram is a is an author and USA-Licensed Psychotherapist with 20 years of experience in the field of Human Development, Parent Coaching, Training and Education.</i></b> She is the recipient of New York University’s ‘Deans Award’ for academic excellence and the Press-Ganey Award for Clinical Expertise, USA. Aparna has been published in leading print media and has been invited as a speaker to international conferences.
+											<p><br><b><i>Aparna Samuel Balasundaram is a is an author and Award Winning Psychotherapist with 20 years of experience in the field of Human Development, Parent Coaching, Training and Education.</i></b> She is the recipient of New York University’s ‘Deans Award’ for academic excellence and the Press-Ganey Award for Clinical Expertise, USA. Aparna has been published in leading print media and has been invited as a speaker to international conferences.
 											She is the Founder of three organizations that helps people reach their full potential so they might lead flourishing lives - LIFE SKILLS EXPERTS, A FLOURISHING ME and WORK SKILLS EXPERTS.
 											Life Skills Experts is passionate about raising happy, confident and successful children and families! They conduct Positive Parenting Workshops, Transformational Teacher Training and Children’s Life Skills Session, with progressive corporates and schools like- The Doon School, Vasant Valley School, Step by Step World School, Kunskapsskolan, American Embassy School, Microsoft, Wipro, Airtel, Accenture, NDTV, Suncity World School, Lancers International, American Excelsior, Aricent, Biocon, DLF, UNICEF.</p>
 
@@ -872,7 +790,61 @@ include("header.php");
 					</div>
 				</div>
 				
-                
+                <div id="speaker-modal-2" class="speaker-modal modal fade">
+					<div class="modal-dialog">
+						<div class="modal-content">
+							<button type="button" class="speaker-modal-close" data-dismiss="modal"></button>
+							<div class="modal-body">
+								<div class="row">
+									<div class="col-md-5">
+										<div class="speaker-modal-img">
+											<img src="./img/aj.jpg" alt="">
+										</div>
+									</div>
+									<div class="col-md-7">
+										<div class="speaker-modal-content">
+											<h2 class="speaker-name">Archana Jani</h2></br>
+											<span class="speaker-job">"Passion is the oxygen of the soul."</span>
+                                            
+											<p><br>One of the few lucky people who don't work, they just earn from their passion, <b><i>RJ Archana has become a popular name throughout Gujarat.</i></b> A graduate of St. Xavier's College, Ahmedabad; this MY FM RJ continues to entertain people and is loved by them. Learn more about the creative and passionate life of RJ Archana Jani exclusively at TEDx-VGEC.</p>
+
+<!-- 
+											<div class="speaker-website">
+												<h4>Website</h4>
+												<a href="#">www.johndoe.com</a>
+											</div> -->
+											
+							<div class="speaker-social">
+								<h4>Social Profile</h4>
+								<a target="_blank" href="https://www.facebook.com/myrjarchanajani/"><i class="fa fa-facebook"></i></a>
+								<a target="_blank" href="https://twitter.com/myrjarchanajani"><i class="fa fa-twitter"></i></a>
+								<a target="_blank" href="https://www.instagram.com/myrjarchanajani/?utm_source=ig_profile_share&igshid=1ep96acpndzhw"><i class="fa fa-instagram"></i></a>
+								<!-- <a target="_blank" href="#"><i class="fa fa fa-linkedin"></i></a> -->
+							</div>
+
+
+<!-- 
+											<div class="speaker-events">
+												<h4>Sessions</h4>
+												<div class="speaker-event">
+													<span><strong>Day 1 -</strong> February 20, 2018 8 : 00 AM - 11 : 00 AM</span>
+													<p>His id altera fabellas facilisis. Has eros assueverit cu</p>
+												</div>
+
+												<div class="speaker-event">
+													<span><strong>Day 2 -</strong> February 20, 2018 8 : 00 AM - 11 : 00 AM</span>
+													<p>At mucius deserunt delicatissimi eam, labitur detraxit ut sit</p>
+												</div>
+											</div> -->
+
+
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
                     
 				<div id="speaker-modal-8" class="speaker-modal modal fade">
 					<div class="modal-dialog">
@@ -1239,7 +1211,7 @@ include("header.php");
 				<div class="col-md-3 col-sm-4 col-xs-6">
 					<h3 style="color: #e62b1e; text-align: center;">HighTea Sponsor</h3>
 					<a href="https://www.justdial.com/Ahmedabad/Gozel-Salons-Nr-Sakar-School-Chandkheda/079PXX79-XX79-170508165055-G6N6_BZDET" class="sponsor">
-						<img src="./img/gozel.jpg" alt="">
+						<img src="./img/gs.jpg" alt="">
 					</a>
 				</div>
 				<!-- /sponsor -->
@@ -1264,9 +1236,18 @@ include("header.php");
 
 				<!-- sponsor -->
 				<div class="col-md-3 col-sm-4 col-xs-6">
+					<h3 style="color: #e62b1e; text-align: center;">Participants T-shirt Sponsor</h3>
+					<a href="http://www.kudratikahumbo.com/" class="sponsor">
+						<img src="./img/kl.png" alt="">
+					</a>
+				</div>
+				<!-- /sponsor -->
+
+				<!-- sponsor -->
+				<div class="col-md-3 col-sm-4 col-xs-6">
 					<h3 style="color: #e62b1e; text-align: center;">Printing Partner</h3>
 					<a href="https://www.justdial.com/Ahmedabad/Sunshine-Photo-Print-Pvt-Ltd-New-C-G-Road-Chandkheda/079PXX79-XX79-150221175106-V2G1_BZDET" class="sponsor">
-						<img src="./img/sunshine.png" alt="">
+						<img src="./img/sunshinec.png" alt="">
 					</a>
 				</div>
 				<!-- /sponsor -->
