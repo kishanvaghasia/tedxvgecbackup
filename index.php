@@ -59,7 +59,7 @@ include("header.php");
 							<h4 class="lead"> You can't connect the dots looking forward,</br> You can only connect them looking backward </h4>
 							<a target="_blank" style="background-color: #e62b1e;" href="buy.php" class="main-btn">Buy Tickets</a>
 							<br><br>
-							<p class="lead" style="color:white">For general public tickets will be available soon</p>
+							<p class="lead" style="color:white">Tickets available for all</p>
 						</div>
 					</div>
 					<!-- /home content -->
@@ -1277,7 +1277,7 @@ include("header.php");
 						<p class="lead">Grab Your Tickets Right Now Before Someone Else Does!!</p>
 						<a target="_blank" style="background-color: #e62b1e;" href="buy.php" class="main-btn">Buy Tickets</a>
 						<br><br>
-						<p class="lead">For general public tickets will be available soon</p>
+						<p class="lead">Tickets available for all</p>
 					</div>
 				</div>
 				<!-- /cta content -->

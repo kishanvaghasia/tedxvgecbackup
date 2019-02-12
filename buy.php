@@ -96,7 +96,8 @@
                 <div class="col-md-8 col-md-offset-2">
 					<div class="page-wrapper-content">
                         <br>
-						<h3>Tickets only available for Current VGEC Students/ VGEC Staff/ VGEC Alumni </h3>
+						<h3>Tickets available for all </h3>
+                        
                         <br>
                         <h3  style="text-align:left">Notes: - </h3>
                         
@@ -182,10 +183,10 @@
                        <br> Title of Work Shop: <b>tedxvgec</b>
                         <br>Organizing Department: <b>vgec</b>
                     <br> Start Date and End Date as: <b>28/02/2019</b>
-                        <br>Fees as per Brochure:<b> 400/- (only for Current VGEC Students/ VGEC Staff/ VGEC Alumni)</b> 
+                        <br>Fees as per Brochure:<b> 450/-</b> 
 
                           
-						<img src="img/sc%206.jpg" style="height:0%; width:85%;">
+						<img src="img/sc6.jpg" style="height:0%; width:85%;">
 					</div>
                     
                     <div class="page-wrapper-content">
