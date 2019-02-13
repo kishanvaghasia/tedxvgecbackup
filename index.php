@@ -1198,11 +1198,13 @@ include("header.php");
 				</div>
 				<!-- /section title -->
 
+                
+                
 				<!-- sponsor -->
 				<div class="col-md-3 col-sm-4 col-xs-6">
-					<h3 style="color: #e62b1e; text-align: center;">Promotion Partner</h3>
-					<a href="https://instagram.com/ahmedabad_live?utm_source=ig_profile_share&igshid=1ngkfdjq2ae6d" class="sponsor">
-						<img src="./img/ahlive.png" alt="">
+					<h3 style="color: #e62b1e; text-align: center;">Title Partner</h3>
+					<a href="https://gujcost.gujarat.gov.in/" class="sponsor" target="_blank">
+						<img src="./img/gujcostphotoshop.jpg" alt="">
 					</a>
 				</div>
 				<!-- /sponsor -->
@@ -1210,7 +1212,7 @@ include("header.php");
 				<!-- sponsor -->
 				<div class="col-md-3 col-sm-4 col-xs-6">
 					<h3 style="color: #e62b1e; text-align: center;">HighTea Sponsor</h3>
-					<a href="https://www.justdial.com/Ahmedabad/Gozel-Salons-Nr-Sakar-School-Chandkheda/079PXX79-XX79-170508165055-G6N6_BZDET" class="sponsor">
+					<a href="https://www.justdial.com/Ahmedabad/Gozel-Salons-Nr-Sakar-School-Chandkheda/079PXX79-XX79-170508165055-G6N6_BZDET" class="sponsor" target="_blank">
 						<img src="./img/gs.jpg" alt="">
 					</a>
 				</div>
@@ -1219,7 +1221,7 @@ include("header.php");
 				<!-- sponsor -->
 				<div class="col-md-3 col-sm-4 col-xs-6">
 					<h3 style="color: #e62b1e; text-align: center;">Education Partner</h3>
-					<a href="https://www.endeavorcareers.com/" class="sponsor">
+					<a href="https://www.endeavorcareers.com/" class="sponsor" target="_blank">
 						<img src="./img/endeavor.jpg" alt="">
 					</a>
 				</div>
@@ -1228,7 +1230,7 @@ include("header.php");
 				<!-- sponsor -->
 				<div class="col-md-3 col-sm-4 col-xs-6">
 					<h3 style="color: #e62b1e; text-align: center;">Team T-shirt Sponsor</h3>
-					<a href="http://www.karkhanawala.in/" class="sponsor">
+					<a href="http://www.karkhanawala.in/" class="sponsor" target="_blank">
 						<img src="./img/karkhana.jpg" alt="">
 					</a>
 				</div>
@@ -1237,7 +1239,7 @@ include("header.php");
 				<!-- sponsor -->
 				<div class="col-md-3 col-sm-4 col-xs-6">
 					<h3 style="color: #e62b1e; text-align: center;">Participants T-shirt Sponsor</h3>
-					<a href="http://www.kudratikahumbo.com/" class="sponsor">
+					<a href="http://www.kudratikahumbo.com/" class="sponsor" target="_blank">
 						<img src="./img/kl.png" alt="">
 					</a>
 				</div>
@@ -1246,8 +1248,17 @@ include("header.php");
 				<!-- sponsor -->
 				<div class="col-md-3 col-sm-4 col-xs-6">
 					<h3 style="color: #e62b1e; text-align: center;">Printing Partner</h3>
-					<a href="https://www.justdial.com/Ahmedabad/Sunshine-Photo-Print-Pvt-Ltd-New-C-G-Road-Chandkheda/079PXX79-XX79-150221175106-V2G1_BZDET" class="sponsor">
+					<a href="https://www.justdial.com/Ahmedabad/Sunshine-Photo-Print-Pvt-Ltd-New-C-G-Road-Chandkheda/079PXX79-XX79-150221175106-V2G1_BZDET" class="sponsor" target="_blank">
 						<img src="./img/sunshinec.png" alt="">
+					</a>
+				</div>
+				<!-- /sponsor -->
+                
+               <!-- sponsor -->
+				<div class="col-md-3 col-sm-4 col-xs-6">
+					<h3 style="color: #e62b1e; text-align: center;">Promotion Partner</h3>
+					<a href="https://instagram.com/ahmedabad_live?utm_source=ig_profile_share&igshid=1ngkfdjq2ae6d" class="sponsor" target="_blank">
+						<img src="./img/ahlive.png" alt="">
 					</a>
 				</div>
 				<!-- /sponsor -->
