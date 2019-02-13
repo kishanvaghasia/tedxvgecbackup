@@ -101,11 +101,13 @@
                         <br>
                         <h3  style="text-align:left">Notes: - </h3>
                         
-                        <h3 style="font-size:19px;text-align:justify">1.  VGEC STUDENT - If you are currently pursuing in VGEC then you have to enter your enrollment number in SBI COLLECT PORTAL.</h3>
+                        <h3 style="font-size:19px;text-align:justify">1. For general public no need to enter any enrollment number.</h3>
                         
-                        <h3 style="font-size:19px;text-align:justify">2. VGEC STAFF - Staff members of VGEC must enter their Name, Designation, Department (in a text box above remarks section).</h3>
+                        <h3 style="font-size:19px;text-align:justify">2.  VGEC STUDENT - If you are currently pursuing in VGEC then you have to enter your enrollment number in SBI COLLECT PORTAL.</h3>
                         
-                        <h3 style="font-size:19px;text-align:justify">3. VGEC ALUMNI – Alumni’s of VGEC must enter their Name, enrollment number and batch year.</h3>
+                        <h3 style="font-size:19px;text-align:justify">3. VGEC STAFF - Staff members of VGEC must enter their Name, Designation, Department (in a text box above remarks section).</h3>
+                        
+                        <h3 style="font-size:19px;text-align:justify">4. VGEC ALUMNI – Alumni’s of VGEC must enter their Name, enrollment number and batch year.</h3>
                         
                   </div>
 				</div>
